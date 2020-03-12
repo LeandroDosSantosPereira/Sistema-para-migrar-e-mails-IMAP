@@ -15,23 +15,17 @@
 //= require turbolinks
 //= require_tree .
 
-
-
-
 // if(document.getElementById("msg").textContent != null){
 //     alert("Erro!")
 // }
 
+// function submit(){
 
-// function submit(){   
-  
 //    setTimeout("recarrega()", 5000);
 // }
 
 // function recarrega(){
-   
+
 //     window.location.reload();
 //     setTimeout("teste()", 3000);
 // }
-
-
