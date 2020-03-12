@@ -98,7 +98,7 @@ class HomeController < ApplicationController
         source.examine(source_folder)
       rescue => e
         ds "Error: select failed: #{e}"
-        @imap.errors.add("Erro_ao_selecionar_pasta_:" ,"Falha ao selecionar pasta no servidor de entrada")
+        # @imap.errors.add("Erro_ao_selecionar_pasta_:" ,"Falha ao selecionar pasta no servidor de entrada")
         next
       end
 
@@ -114,7 +114,7 @@ class HomeController < ApplicationController
           
         rescue => ee
           dd "Error: could not create folder: #{e}"
-          @imap.errors.add("Erro_ao_criar_pasta_:" ,"Falha ao criar pasta no servidor de destino")
+          # @imap.errors.add("Erro_ao_criar_pasta_:" ,"Falha ao criar pasta no servidor de destino")
           next
         end
       end

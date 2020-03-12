@@ -29,3 +29,16 @@
 //     window.location.reload();
 //     setTimeout("teste()", 3000);
 // }
+
+var spinner = $('.loading-spinner');
+
+$('#click-me').on("click", function(){
+   spinner.addClass('active'); // ativa o loading
+  
+  // Espera 5 segundos e desativa o loading
+//   setTimeout(function(){
+//     spinner.removeClass('active'); 
+//   }, 5000);
+});
+
+

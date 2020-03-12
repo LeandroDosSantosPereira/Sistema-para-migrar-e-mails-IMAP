@@ -25524,3 +25524,1674 @@ Processing by HomeController#imap as HTML
 Completed 200 OK in 72ms (Views: 70.3ms | ActiveRecord: 0.0ms)
 
 
+Started GET "/imap" for 127.0.0.1 at 2020-03-12 08:18:13 -0400
+Processing by HomeController#imap as HTML
+  Rendering home/imap.html.erb within layouts/application
+  Rendered layouts/includes/_alerts.html.erb (0.9ms)
+  Rendered home/_form.html.erb (134.6ms)
+  Rendered home/imap.html.erb within layouts/application (144.3ms)
+Completed 200 OK in 697ms (Views: 678.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2020-03-12 08:21:04 -0400
+Processing by HomeController#index as HTML
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (2.5ms)
+Completed 200 OK in 485ms (Views: 472.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2020-03-12 08:21:07 -0400
+Processing by HomeController#index as HTML
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (0.7ms)
+Completed 200 OK in 42ms (Views: 39.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2020-03-12 08:22:36 -0400
+Processing by HomeController#index as HTML
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (0.8ms)
+Completed 200 OK in 45ms (Views: 42.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2020-03-12 08:22:38 -0400
+Processing by HomeController#index as HTML
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (0.9ms)
+Completed 200 OK in 52ms (Views: 47.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2020-03-12 08:22:40 -0400
+Processing by HomeController#index as HTML
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (0.7ms)
+Completed 200 OK in 49ms (Views: 47.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2020-03-12 08:22:46 -0400
+Processing by HomeController#index as HTML
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 44ms (Views: 41.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2020-03-12 08:22:48 -0400
+Processing by HomeController#index as HTML
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (1.4ms)
+Completed 200 OK in 65ms (Views: 61.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2020-03-12 08:23:14 -0400
+Processing by HomeController#index as HTML
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (2.4ms)
+Completed 200 OK in 570ms (Views: 554.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2020-03-12 08:23:40 -0400
+  
+ArgumentError (Missing :controller key on routes definition, please check your routes.):
+  
+config/routes.rb:8:in `block in <top (required)>'
+config/routes.rb:1:in `<top (required)>'
+  Rendering /home/agencia-w3/.rvm/gems/ruby-2.3.0/gems/actionpack-5.0.7.2/lib/action_dispatch/middleware/templates/rescues/diagnostics.html.erb within rescues/layout
+  Rendering /home/agencia-w3/.rvm/gems/ruby-2.3.0/gems/actionpack-5.0.7.2/lib/action_dispatch/middleware/templates/rescues/_source.html.erb
+  Rendered /home/agencia-w3/.rvm/gems/ruby-2.3.0/gems/actionpack-5.0.7.2/lib/action_dispatch/middleware/templates/rescues/_source.html.erb (13.6ms)
+  Rendering /home/agencia-w3/.rvm/gems/ruby-2.3.0/gems/actionpack-5.0.7.2/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb
+  Rendered /home/agencia-w3/.rvm/gems/ruby-2.3.0/gems/actionpack-5.0.7.2/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (6.8ms)
+  Rendering /home/agencia-w3/.rvm/gems/ruby-2.3.0/gems/actionpack-5.0.7.2/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb
+  Rendered /home/agencia-w3/.rvm/gems/ruby-2.3.0/gems/actionpack-5.0.7.2/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (3.3ms)
+  Rendered /home/agencia-w3/.rvm/gems/ruby-2.3.0/gems/actionpack-5.0.7.2/lib/action_dispatch/middleware/templates/rescues/diagnostics.html.erb within rescues/layout (79.4ms)
+Started GET "/" for 127.0.0.1 at 2020-03-12 08:24:26 -0400
+Processing by HomeController#index as HTML
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (0.7ms)
+Completed 200 OK in 62ms (Views: 58.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2020-03-12 08:24:27 -0400
+Processing by HomeController#index as HTML
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 56ms (Views: 48.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2020-03-12 08:24:54 -0400
+Processing by HomeController#imap as HTML
+  Rendering home/imap.html.erb within layouts/application
+  Rendered layouts/includes/_alerts.html.erb (2.1ms)
+  Rendered home/_form.html.erb (35.6ms)
+  Rendered home/imap.html.erb within layouts/application (41.0ms)
+Completed 200 OK in 100ms (Views: 80.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2020-03-12 08:24:57 -0400
+Processing by HomeController#imap as HTML
+  Rendering home/imap.html.erb within layouts/application
+  Rendered layouts/includes/_alerts.html.erb (0.8ms)
+  Rendered home/_form.html.erb (14.5ms)
+  Rendered home/imap.html.erb within layouts/application (18.7ms)
+Completed 200 OK in 68ms (Views: 65.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2020-03-12 08:24:58 -0400
+Processing by HomeController#imap as HTML
+  Rendering home/imap.html.erb within layouts/application
+  Rendered layouts/includes/_alerts.html.erb (0.9ms)
+  Rendered home/_form.html.erb (11.9ms)
+  Rendered home/imap.html.erb within layouts/application (18.3ms)
+Completed 200 OK in 70ms (Views: 66.2ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/imap" for 127.0.0.1 at 2020-03-12 08:25:00 -0400
+Processing by HomeController#send_imap as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"VFQLr95I1n/Sbwv15j4E48LiGY3O5DaekbrPivcDyJUTX8n/btuINwStMODdL6C7jnuT03gAzMnrJVCLkAdW2g==", "imap"=>{"source_name"=>"", "source_host"=>"", "source_port"=>"", "source_pass"=>"", "source_ssl"=>"0", "dest_name"=>"", "dest_host"=>"", "dest_port"=>"", "dest_pass"=>"", "dest_ssl"=>"0"}, "commit"=>"Migrar"}
+  Rendering home/send_imap.html.erb within layouts/application
+  Rendered home/_form.html.erb (14.2ms)
+  Rendered home/send_imap.html.erb within layouts/application (24.1ms)
+Completed 200 OK in 147ms (Views: 77.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/imap" for 127.0.0.1 at 2020-03-12 08:25:11 -0400
+Processing by HomeController#imap as HTML
+  Rendering home/imap.html.erb within layouts/application
+  Rendered layouts/includes/_alerts.html.erb (0.9ms)
+  Rendered home/_form.html.erb (12.9ms)
+  Rendered home/imap.html.erb within layouts/application (17.5ms)
+Completed 200 OK in 81ms (Views: 79.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/imap" for 127.0.0.1 at 2020-03-12 08:25:13 -0400
+Processing by HomeController#imap as HTML
+  Rendering home/imap.html.erb within layouts/application
+  Rendered layouts/includes/_alerts.html.erb (0.8ms)
+  Rendered home/_form.html.erb (13.4ms)
+  Rendered home/imap.html.erb within layouts/application (17.5ms)
+Completed 200 OK in 58ms (Views: 56.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/imap" for 127.0.0.1 at 2020-03-12 08:26:40 -0400
+Processing by HomeController#imap as HTML
+  Rendering home/imap.html.erb within layouts/application
+  Rendered layouts/includes/_alerts.html.erb (1.1ms)
+  Rendered home/_form.html.erb (13.5ms)
+  Rendered home/imap.html.erb within layouts/application (17.7ms)
+Completed 200 OK in 61ms (Views: 58.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/imap" for 127.0.0.1 at 2020-03-12 08:28:06 -0400
+Processing by HomeController#imap as HTML
+  Rendering home/imap.html.erb within layouts/application
+  Rendered layouts/includes/_alerts.html.erb (0.9ms)
+  Rendered home/_form.html.erb (23.5ms)
+  Rendered home/imap.html.erb within layouts/application (28.6ms)
+Completed 200 OK in 87ms (Views: 83.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/imap" for 127.0.0.1 at 2020-03-12 08:28:36 -0400
+Processing by HomeController#imap as HTML
+  Rendering home/imap.html.erb within layouts/application
+  Rendered layouts/includes/_alerts.html.erb (6.5ms)
+  Rendered home/_form.html.erb (19.8ms)
+  Rendered home/imap.html.erb within layouts/application (31.0ms)
+Completed 200 OK in 78ms (Views: 75.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/imap" for 127.0.0.1 at 2020-03-12 08:28:42 -0400
+Processing by HomeController#imap as HTML
+  Rendering home/imap.html.erb within layouts/application
+  Rendered layouts/includes/_alerts.html.erb (0.8ms)
+  Rendered home/_form.html.erb (12.2ms)
+  Rendered home/imap.html.erb within layouts/application (18.2ms)
+Completed 200 OK in 81ms (Views: 73.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/imap" for 127.0.0.1 at 2020-03-12 08:28:52 -0400
+Processing by HomeController#imap as HTML
+  Rendering home/imap.html.erb within layouts/application
+  Rendered layouts/includes/_alerts.html.erb (1.0ms)
+  Rendered home/_form.html.erb (16.3ms)
+  Rendered home/imap.html.erb within layouts/application (23.5ms)
+Completed 200 OK in 71ms (Views: 69.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/imap" for 127.0.0.1 at 2020-03-12 08:29:04 -0400
+Processing by HomeController#imap as HTML
+  Rendering home/imap.html.erb within layouts/application
+  Rendered layouts/includes/_alerts.html.erb (0.9ms)
+  Rendered home/_form.html.erb (17.0ms)
+  Rendered home/imap.html.erb within layouts/application (24.0ms)
+Completed 200 OK in 69ms (Views: 67.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/imap" for 127.0.0.1 at 2020-03-12 08:29:20 -0400
+Processing by HomeController#imap as HTML
+  Rendering home/imap.html.erb within layouts/application
+  Rendered layouts/includes/_alerts.html.erb (0.8ms)
+  Rendered home/_form.html.erb (13.3ms)
+  Rendered home/imap.html.erb within layouts/application (19.3ms)
+Completed 200 OK in 78ms (Views: 76.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/imap" for 127.0.0.1 at 2020-03-12 08:29:40 -0400
+Processing by HomeController#imap as HTML
+  Rendering home/imap.html.erb within layouts/application
+  Rendered layouts/includes/_alerts.html.erb (0.9ms)
+  Rendered home/_form.html.erb (14.6ms)
+  Rendered home/imap.html.erb within layouts/application (20.0ms)
+Completed 200 OK in 70ms (Views: 67.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/imap" for 127.0.0.1 at 2020-03-12 08:30:12 -0400
+Processing by HomeController#imap as HTML
+  Rendering home/imap.html.erb within layouts/application
+  Rendered layouts/includes/_alerts.html.erb (0.9ms)
+  Rendered home/_form.html.erb (11.6ms)
+  Rendered home/imap.html.erb within layouts/application (19.7ms)
+Completed 200 OK in 77ms (Views: 75.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/imap" for 127.0.0.1 at 2020-03-12 08:33:06 -0400
+Processing by HomeController#imap as HTML
+  Rendering home/imap.html.erb within layouts/application
+  Rendered layouts/includes/_alerts.html.erb (1.0ms)
+  Rendered home/imap.html.erb within layouts/application (3.4ms)
+Completed 200 OK in 44ms (Views: 42.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/imap" for 127.0.0.1 at 2020-03-12 08:33:10 -0400
+Processing by HomeController#imap as HTML
+  Rendering home/imap.html.erb within layouts/application
+  Rendered layouts/includes/_alerts.html.erb (1.0ms)
+  Rendered home/imap.html.erb within layouts/application (6.7ms)
+Completed 200 OK in 50ms (Views: 47.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/imap" for 127.0.0.1 at 2020-03-12 08:33:12 -0400
+Processing by HomeController#imap as HTML
+  Rendering home/imap.html.erb within layouts/application
+  Rendered layouts/includes/_alerts.html.erb (1.1ms)
+  Rendered home/imap.html.erb within layouts/application (3.1ms)
+Completed 200 OK in 44ms (Views: 41.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/imap" for 127.0.0.1 at 2020-03-12 08:33:28 -0400
+Processing by HomeController#imap as HTML
+  Rendering home/imap.html.erb within layouts/application
+  Rendered layouts/includes/_alerts.html.erb (0.9ms)
+  Rendered home/_form.html.erb (16.5ms)
+  Rendered home/imap.html.erb within layouts/application (22.8ms)
+Completed 200 OK in 82ms (Views: 80.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/imap" for 127.0.0.1 at 2020-03-12 08:34:17 -0400
+Processing by HomeController#imap as HTML
+  Rendering home/imap.html.erb within layouts/application
+  Rendered layouts/includes/_alerts.html.erb (0.9ms)
+  Rendered home/_form.html.erb (13.5ms)
+  Rendered home/imap.html.erb within layouts/application (17.6ms)
+Completed 200 OK in 61ms (Views: 57.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/imap" for 127.0.0.1 at 2020-03-12 08:35:01 -0400
+Processing by HomeController#imap as HTML
+  Rendering home/imap.html.erb within layouts/application
+  Rendered layouts/includes/_alerts.html.erb (0.9ms)
+  Rendered home/_form.html.erb (13.4ms)
+  Rendered home/imap.html.erb within layouts/application (18.2ms)
+Completed 200 OK in 74ms (Views: 71.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/imap" for 127.0.0.1 at 2020-03-12 08:37:10 -0400
+Processing by HomeController#imap as HTML
+  Rendering home/imap.html.erb within layouts/application
+  Rendered layouts/includes/_alerts.html.erb (1.6ms)
+  Rendered home/_form.html.erb (16.7ms)
+  Rendered home/imap.html.erb within layouts/application (22.9ms)
+Completed 200 OK in 214ms (Views: 211.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/imap" for 127.0.0.1 at 2020-03-12 08:37:35 -0400
+Processing by HomeController#imap as HTML
+  Rendering home/imap.html.erb within layouts/application
+  Rendered layouts/includes/_alerts.html.erb (0.8ms)
+  Rendered home/_form.html.erb (15.0ms)
+  Rendered home/imap.html.erb within layouts/application (19.7ms)
+Completed 200 OK in 170ms (Views: 168.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/imap" for 127.0.0.1 at 2020-03-12 08:37:37 -0400
+Processing by HomeController#imap as HTML
+  Rendering home/imap.html.erb within layouts/application
+  Rendered layouts/includes/_alerts.html.erb (0.9ms)
+  Rendered home/_form.html.erb (14.2ms)
+  Rendered home/imap.html.erb within layouts/application (18.9ms)
+Completed 200 OK in 63ms (Views: 61.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/imap" for 127.0.0.1 at 2020-03-12 08:40:49 -0400
+Processing by HomeController#imap as HTML
+  Rendering home/imap.html.erb within layouts/application
+  Rendered layouts/includes/_alerts.html.erb (1.6ms)
+  Rendered home/_form.html.erb (14.9ms)
+  Rendered home/imap.html.erb within layouts/application (25.6ms)
+Completed 200 OK in 258ms (Views: 256.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/imap" for 127.0.0.1 at 2020-03-12 08:44:42 -0400
+Processing by HomeController#imap as HTML
+  Rendering home/imap.html.erb within layouts/application
+  Rendered layouts/includes/_alerts.html.erb (1.4ms)
+  Rendered home/_form.html.erb (11.6ms)
+  Rendered home/imap.html.erb within layouts/application (16.5ms)
+Completed 200 OK in 226ms (Views: 224.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/imap" for 127.0.0.1 at 2020-03-12 08:45:04 -0400
+Processing by HomeController#imap as HTML
+  Rendering home/imap.html.erb within layouts/application
+  Rendered layouts/includes/_alerts.html.erb (0.9ms)
+  Rendered home/_form.html.erb (17.2ms)
+  Rendered home/imap.html.erb within layouts/application (23.7ms)
+Completed 200 OK in 81ms (Views: 79.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/imap" for 127.0.0.1 at 2020-03-12 08:47:11 -0400
+Processing by HomeController#imap as HTML
+  Rendering home/imap.html.erb within layouts/application
+  Rendered layouts/includes/_alerts.html.erb (1.1ms)
+  Rendered home/_form.html.erb (23.4ms)
+  Rendered home/imap.html.erb within layouts/application (41.9ms)
+Completed 200 OK in 133ms (Views: 130.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/imap" for 127.0.0.1 at 2020-03-12 08:51:18 -0400
+Processing by HomeController#imap as HTML
+  Rendering home/imap.html.erb within layouts/application
+  Rendered layouts/includes/_alerts.html.erb (1.8ms)
+  Rendered home/_form.html.erb (18.2ms)
+  Rendered home/imap.html.erb within layouts/application (29.9ms)
+Completed 200 OK in 92ms (Views: 88.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/imap" for 127.0.0.1 at 2020-03-12 08:51:25 -0400
+Processing by HomeController#imap as HTML
+  Rendering home/imap.html.erb within layouts/application
+  Rendered layouts/includes/_alerts.html.erb (0.8ms)
+  Rendered home/_form.html.erb (27.2ms)
+  Rendered home/imap.html.erb within layouts/application (33.4ms)
+Completed 200 OK in 94ms (Views: 91.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/imap" for 127.0.0.1 at 2020-03-12 08:51:48 -0400
+Processing by HomeController#imap as HTML
+  Rendering home/imap.html.erb within layouts/application
+  Rendered layouts/includes/_alerts.html.erb (0.9ms)
+  Rendered home/_form.html.erb (20.6ms)
+  Rendered home/imap.html.erb within layouts/application (28.2ms)
+Completed 200 OK in 78ms (Views: 76.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/imap" for 127.0.0.1 at 2020-03-12 08:52:27 -0400
+Processing by HomeController#imap as HTML
+  Rendering home/imap.html.erb within layouts/application
+  Rendered layouts/includes/_alerts.html.erb (1.0ms)
+  Rendered home/_form.html.erb (13.1ms)
+  Rendered home/imap.html.erb within layouts/application (24.6ms)
+Completed 200 OK in 102ms (Views: 98.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/imap" for 127.0.0.1 at 2020-03-12 08:53:00 -0400
+Processing by HomeController#imap as HTML
+  Rendering home/imap.html.erb within layouts/application
+  Rendered layouts/includes/_alerts.html.erb (0.9ms)
+  Rendered home/_form.html.erb (17.4ms)
+  Rendered home/imap.html.erb within layouts/application (23.8ms)
+Completed 200 OK in 77ms (Views: 74.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/imap" for 127.0.0.1 at 2020-03-12 08:53:04 -0400
+Processing by HomeController#imap as HTML
+  Rendering home/imap.html.erb within layouts/application
+  Rendered layouts/includes/_alerts.html.erb (0.9ms)
+  Rendered home/_form.html.erb (16.2ms)
+  Rendered home/imap.html.erb within layouts/application (21.2ms)
+Completed 200 OK in 69ms (Views: 66.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/imap" for 127.0.0.1 at 2020-03-12 08:53:13 -0400
+Processing by HomeController#imap as HTML
+  Rendering home/imap.html.erb within layouts/application
+  Rendered layouts/includes/_alerts.html.erb (0.8ms)
+  Rendered home/_form.html.erb (16.3ms)
+  Rendered home/imap.html.erb within layouts/application (21.0ms)
+Completed 200 OK in 69ms (Views: 67.3ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/imap" for 127.0.0.1 at 2020-03-12 08:53:16 -0400
+Processing by HomeController#send_imap as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"6fbtOfRPExDls+l7pQUFKNpCWx3Aq7nxCSPNVS7o0a6u/S9pRNxNWDNx0m6eFKFwltvRQ3ZPQ6ZzvFJUSexP4Q==", "imap"=>{"source_name"=>"", "source_host"=>"", "source_port"=>"", "source_pass"=>"", "source_ssl"=>"0", "dest_name"=>"", "dest_host"=>"", "dest_port"=>"", "dest_pass"=>"", "dest_ssl"=>"0"}, "commit"=>"Migrar"}
+  Rendering home/send_imap.html.erb within layouts/application
+  Rendered home/_form.html.erb (14.2ms)
+  Rendered home/send_imap.html.erb within layouts/application (24.4ms)
+Completed 200 OK in 120ms (Views: 72.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/imap" for 127.0.0.1 at 2020-03-12 08:53:39 -0400
+Processing by HomeController#imap as HTML
+  Rendering home/imap.html.erb within layouts/application
+  Rendered layouts/includes/_alerts.html.erb (1.0ms)
+  Rendered home/_form.html.erb (24.3ms)
+  Rendered home/imap.html.erb within layouts/application (29.7ms)
+Completed 200 OK in 92ms (Views: 89.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/imap" for 127.0.0.1 at 2020-03-12 08:53:42 -0400
+Processing by HomeController#imap as HTML
+  Rendering home/imap.html.erb within layouts/application
+  Rendered layouts/includes/_alerts.html.erb (0.9ms)
+  Rendered home/_form.html.erb (22.2ms)
+  Rendered home/imap.html.erb within layouts/application (32.3ms)
+Completed 200 OK in 100ms (Views: 97.3ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/imap" for 127.0.0.1 at 2020-03-12 08:54:42 -0400
+Processing by HomeController#send_imap as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"oBpRIG9JO4GkwqU2dvmIFpi6x0oWl3nELJkB4yPXXrDnEZNw39plyXIAniNN6CxO1CNNFKBzg5NWBp7iRNPA/w==", "imap"=>{"source_name"=>"dossantospereira6@gmail.com", "source_host"=>"imap.gmail.com", "source_port"=>"993", "source_pass"=>"novaandradina", "source_ssl"=>"1", "dest_name"=>"leandrobcnams@gmail.com", "dest_host"=>"imap.gmail.com", "dest_port"=>"993", "dest_pass"=>"dfsdf", "dest_ssl"=>"1"}, "commit"=>"Migrar"}
+  Rendering home/send_imap.html.erb within layouts/application
+  Rendered home/_form.html.erb (13.2ms)
+  Rendered home/send_imap.html.erb within layouts/application (20.8ms)
+Completed 200 OK in 6244ms (Views: 476.3ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/imap" for 127.0.0.1 at 2020-03-12 08:55:07 -0400
+Processing by HomeController#send_imap as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"QVug3EOzfsib6m+jtvaDcOIsVc6/KR9OkrcCFY2M6noGUGKM8yAggE0oVLaN5ycorrXfkAnN5RnoKJ0U6oh0NQ==", "imap"=>{"source_name"=>"dossantospereira6@gmail.com", "source_host"=>"imap.gmail.com", "source_port"=>"993", "source_pass"=>"novaandradina", "source_ssl"=>"1", "dest_name"=>"leandrobcnams@gmail.com", "dest_host"=>"imap.gmail.com", "dest_port"=>"993", "dest_pass"=>"novaandradina", "dest_ssl"=>"1"}, "commit"=>"Migrar"}
+Started GET "/imap" for 127.0.0.1 at 2020-03-12 08:59:25 -0400
+Processing by HomeController#imap as HTML
+  Rendering home/imap.html.erb within layouts/application
+  Rendered layouts/includes/_alerts.html.erb (1.3ms)
+  Rendered home/_form.html.erb (159.6ms)
+  Rendered home/imap.html.erb within layouts/application (186.4ms)
+Completed 200 OK in 3032ms (Views: 2934.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/imap" for 127.0.0.1 at 2020-03-12 08:59:32 -0400
+Processing by HomeController#imap as HTML
+  Rendering home/imap.html.erb within layouts/application
+  Rendered layouts/includes/_alerts.html.erb (0.8ms)
+  Rendered home/_form.html.erb (12.4ms)
+  Rendered home/imap.html.erb within layouts/application (16.7ms)
+Completed 200 OK in 61ms (Views: 58.3ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/imap" for 127.0.0.1 at 2020-03-12 08:59:35 -0400
+Processing by HomeController#send_imap as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"jzfOL/GPnp+nPdU4gMAvTKoYdo5TmA5TwfwqX75FbSfIPAx/QRzA13H/7i270YsU5oH80OV89AS7Y7Ve2UHzaA==", "imap"=>{"source_name"=>"", "source_host"=>"", "source_port"=>"", "source_pass"=>"", "source_ssl"=>"0", "dest_name"=>"", "dest_host"=>"", "dest_port"=>"", "dest_pass"=>"", "dest_ssl"=>"0"}, "commit"=>"Migrar"}
+  Rendering home/send_imap.html.erb within layouts/application
+  Rendered home/_form.html.erb (18.7ms)
+  Rendered home/send_imap.html.erb within layouts/application (25.7ms)
+Completed 200 OK in 86ms (Views: 78.1ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/imap" for 127.0.0.1 at 2020-03-12 08:59:38 -0400
+Processing by HomeController#send_imap as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"eZSP4uLeEzzQmvDluGK5F+NglLH9uCsHscdeQynUltI+n02yUk1NdAZYy/CDcx1Pr/ke70tc0VDLWMFCTtAInQ==", "imap"=>{"source_name"=>"", "source_host"=>"", "source_port"=>"", "source_pass"=>"", "source_ssl"=>"0", "dest_name"=>"", "dest_host"=>"", "dest_port"=>"", "dest_pass"=>"", "dest_ssl"=>"0"}, "commit"=>"Migrar"}
+  Rendering home/send_imap.html.erb within layouts/application
+  Rendered home/_form.html.erb (15.0ms)
+  Rendered home/send_imap.html.erb within layouts/application (21.0ms)
+Completed 200 OK in 73ms (Views: 69.4ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/imap" for 127.0.0.1 at 2020-03-12 08:59:41 -0400
+Processing by HomeController#send_imap as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"JQVRINFdguMQEjcZfb85HkO+jxs30yNwP3hGO78S5ZFiDpNwYc7cq8bQDAxGrp1GDycFRYE32SdF59k62BZ73g==", "imap"=>{"source_name"=>"", "source_host"=>"", "source_port"=>"", "source_pass"=>"", "source_ssl"=>"0", "dest_name"=>"", "dest_host"=>"", "dest_port"=>"", "dest_pass"=>"", "dest_ssl"=>"0"}, "commit"=>"Migrar"}
+  Rendering home/send_imap.html.erb within layouts/application
+  Rendered home/_form.html.erb (17.2ms)
+  Rendered home/send_imap.html.erb within layouts/application (21.5ms)
+Completed 200 OK in 81ms (Views: 76.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/imap" for 127.0.0.1 at 2020-03-12 09:00:04 -0400
+Processing by HomeController#imap as HTML
+  Rendering home/imap.html.erb within layouts/application
+  Rendered layouts/includes/_alerts.html.erb (0.9ms)
+  Rendered home/_form.html.erb (15.5ms)
+  Rendered home/imap.html.erb within layouts/application (20.4ms)
+Completed 200 OK in 66ms (Views: 60.7ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/imap" for 127.0.0.1 at 2020-03-12 09:00:06 -0400
+Processing by HomeController#send_imap as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"uEMheNvMdNn+fF9EDrl3nCamE7tl5ANkdz1JaZgwTcH/SOMoa18qkSi+ZFE1qNPEaj+Z5dMA+TMNotZo/zTTjg==", "imap"=>{"source_name"=>"", "source_host"=>"", "source_port"=>"", "source_pass"=>"", "source_ssl"=>"0", "dest_name"=>"", "dest_host"=>"", "dest_port"=>"", "dest_pass"=>"", "dest_ssl"=>"0"}, "commit"=>"Migrar"}
+  Rendering home/send_imap.html.erb within layouts/application
+  Rendered home/_form.html.erb (69.9ms)
+  Rendered home/send_imap.html.erb within layouts/application (75.3ms)
+Completed 200 OK in 143ms (Views: 139.0ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/imap" for 127.0.0.1 at 2020-03-12 09:00:11 -0400
+Processing by HomeController#send_imap as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"iSA6xAguW3MIAMSLd7BuQ8YEWiK5pXQ/yI1E3LkopQvOK/iUuL0FO97C/55Mocobip3QfA9BjmiyEtvd3iw7RA==", "imap"=>{"source_name"=>"", "source_host"=>"", "source_port"=>"", "source_pass"=>"", "source_ssl"=>"0", "dest_name"=>"", "dest_host"=>"", "dest_port"=>"", "dest_pass"=>"", "dest_ssl"=>"0"}, "commit"=>"Migrar"}
+  Rendering home/send_imap.html.erb within layouts/application
+  Rendered home/_form.html.erb (16.5ms)
+  Rendered home/send_imap.html.erb within layouts/application (20.4ms)
+Completed 200 OK in 90ms (Views: 84.5ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/imap" for 127.0.0.1 at 2020-03-12 09:00:14 -0400
+Processing by HomeController#send_imap as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"eJhTuE78RcQhWxs8AjmZg8c5E0etZqrtreJRx230bAI/k5Ho/m8bjPeZICk5KD3bi6CZGRuCULrXfc7GCvDyTQ==", "imap"=>{"source_name"=>"", "source_host"=>"", "source_port"=>"", "source_pass"=>"", "source_ssl"=>"0", "dest_name"=>"", "dest_host"=>"", "dest_port"=>"", "dest_pass"=>"", "dest_ssl"=>"0"}, "commit"=>"Migrar"}
+  Rendering home/send_imap.html.erb within layouts/application
+  Rendered home/_form.html.erb (16.9ms)
+  Rendered home/send_imap.html.erb within layouts/application (23.2ms)
+Completed 200 OK in 101ms (Views: 96.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/imap" for 127.0.0.1 at 2020-03-12 09:00:18 -0400
+Processing by HomeController#imap as HTML
+  Rendering home/imap.html.erb within layouts/application
+  Rendered layouts/includes/_alerts.html.erb (0.9ms)
+  Rendered home/_form.html.erb (26.3ms)
+  Rendered home/imap.html.erb within layouts/application (35.9ms)
+Completed 200 OK in 122ms (Views: 119.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/send_imap" for 127.0.0.1 at 2020-03-12 09:00:31 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/send_imap"):
+  
+actionpack (5.0.7.2) lib/action_dispatch/middleware/debug_exceptions.rb:53:in `call'
+web-console (3.7.0) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.7.0) lib/web_console/middleware.rb:30:in `block in call'
+web-console (3.7.0) lib/web_console/middleware.rb:20:in `catch'
+web-console (3.7.0) lib/web_console/middleware.rb:20:in `call'
+actionpack (5.0.7.2) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.0.7.2) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.0.7.2) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.0.7.2) lib/active_support/tagged_logging.rb:69:in `block in tagged'
+activesupport (5.0.7.2) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.0.7.2) lib/active_support/tagged_logging.rb:69:in `tagged'
+railties (5.0.7.2) lib/rails/rack/logger.rb:24:in `call'
+sprockets-rails (3.2.1) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.0.7.2) lib/action_dispatch/middleware/request_id.rb:24:in `call'
+rack (2.2.2) lib/rack/method_override.rb:24:in `call'
+rack (2.2.2) lib/rack/runtime.rb:22:in `call'
+activesupport (5.0.7.2) lib/active_support/cache/strategy/local_cache_middleware.rb:28:in `call'
+actionpack (5.0.7.2) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.0.7.2) lib/action_dispatch/middleware/static.rb:136:in `call'
+rack (2.2.2) lib/rack/sendfile.rb:110:in `call'
+railties (5.0.7.2) lib/rails/engine.rb:522:in `call'
+puma (3.12.2) lib/puma/configuration.rb:227:in `call'
+puma (3.12.2) lib/puma/server.rb:674:in `handle_request'
+puma (3.12.2) lib/puma/server.rb:476:in `process_client'
+puma (3.12.2) lib/puma/server.rb:334:in `block in run'
+puma (3.12.2) lib/puma/thread_pool.rb:135:in `block in spawn_thread'
+  Rendering /home/agencia-w3/.rvm/gems/ruby-2.3.0/gems/actionpack-5.0.7.2/lib/action_dispatch/middleware/templates/rescues/routing_error.html.erb within rescues/layout
+  Rendering /home/agencia-w3/.rvm/gems/ruby-2.3.0/gems/actionpack-5.0.7.2/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb
+  Rendered /home/agencia-w3/.rvm/gems/ruby-2.3.0/gems/actionpack-5.0.7.2/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (5.9ms)
+  Rendered collection of /home/agencia-w3/.rvm/gems/ruby-2.3.0/gems/actionpack-5.0.7.2/lib/action_dispatch/middleware/templates/routes/_route.html.erb [3 times] (30.2ms)
+  Rendered /home/agencia-w3/.rvm/gems/ruby-2.3.0/gems/actionpack-5.0.7.2/lib/action_dispatch/middleware/templates/routes/_table.html.erb (14.7ms)
+  Rendering /home/agencia-w3/.rvm/gems/ruby-2.3.0/gems/actionpack-5.0.7.2/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb
+  Rendered /home/agencia-w3/.rvm/gems/ruby-2.3.0/gems/actionpack-5.0.7.2/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (3.5ms)
+  Rendered /home/agencia-w3/.rvm/gems/ruby-2.3.0/gems/actionpack-5.0.7.2/lib/action_dispatch/middleware/templates/rescues/routing_error.html.erb within rescues/layout (123.1ms)
+Started POST "/imap" for 127.0.0.1 at 2020-03-12 09:00:38 -0400
+Processing by HomeController#send_imap as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"k4clFu6Ng6Z+QRK6NIEpP7sBae4jNNWYB3DDlp74y2rUjOdGXh7d7qiDKa8PkI1n95jjsJXQL89971yX+fxVJQ==", "imap"=>{"source_name"=>"", "source_host"=>"", "source_port"=>"", "source_pass"=>"", "source_ssl"=>"0", "dest_name"=>"", "dest_host"=>"", "dest_port"=>"", "dest_pass"=>"", "dest_ssl"=>"0"}, "commit"=>"Migrar"}
+  Rendering home/send_imap.html.erb within layouts/application
+  Rendered home/_form.html.erb (25.0ms)
+  Rendered home/send_imap.html.erb within layouts/application (31.2ms)
+Completed 200 OK in 121ms (Views: 113.0ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/imap" for 127.0.0.1 at 2020-03-12 09:00:40 -0400
+Processing by HomeController#send_imap as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"LskNYeK0aeb8u5qYETWPY4etxgh4llYtOngzjjZ0vIFpws8xUic3rip5oY0qJCs7yzRMVs5yrHpA56yPUXAizg==", "imap"=>{"source_name"=>"", "source_host"=>"", "source_port"=>"", "source_pass"=>"", "source_ssl"=>"0", "dest_name"=>"", "dest_host"=>"", "dest_port"=>"", "dest_pass"=>"", "dest_ssl"=>"0"}, "commit"=>"Migrar"}
+  Rendering home/send_imap.html.erb within layouts/application
+  Rendered home/_form.html.erb (20.0ms)
+  Rendered home/send_imap.html.erb within layouts/application (26.2ms)
+Completed 200 OK in 107ms (Views: 97.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/imap" for 127.0.0.1 at 2020-03-12 09:02:25 -0400
+Processing by HomeController#imap as HTML
+  Rendering home/imap.html.erb within layouts/application
+  Rendered layouts/includes/_alerts.html.erb (1.1ms)
+  Rendered home/_form.html.erb (16.0ms)
+  Rendered home/imap.html.erb within layouts/application (25.1ms)
+Completed 200 OK in 373ms (Views: 370.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/imap" for 127.0.0.1 at 2020-03-12 09:02:28 -0400
+Processing by HomeController#imap as HTML
+  Rendering home/imap.html.erb within layouts/application
+  Rendered layouts/includes/_alerts.html.erb (0.9ms)
+  Rendered home/_form.html.erb (13.7ms)
+  Rendered home/imap.html.erb within layouts/application (18.1ms)
+Completed 200 OK in 75ms (Views: 73.3ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/imap" for 127.0.0.1 at 2020-03-12 09:02:30 -0400
+Processing by HomeController#send_imap as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"VLD6PZjgiDwRkNtjNkYXMaO/f+MuW6pV7014LI+KKp4TuzhtKHPWdMdS4HYNV7Np7yb1vZi/UAKV0uct6I600Q==", "imap"=>{"source_name"=>"", "source_host"=>"", "source_port"=>"", "source_pass"=>"", "source_ssl"=>"0", "dest_name"=>"", "dest_host"=>"", "dest_port"=>"", "dest_pass"=>"", "dest_ssl"=>"0"}, "commit"=>"Migrar"}
+  Rendering home/send_imap.html.erb within layouts/application
+  Rendered home/_form.html.erb (23.9ms)
+  Rendered home/send_imap.html.erb within layouts/application (28.5ms)
+Completed 200 OK in 84ms (Views: 78.2ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/imap" for 127.0.0.1 at 2020-03-12 09:02:33 -0400
+Processing by HomeController#send_imap as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"prX0pdkfmjbw4D0lA09iEcddo0hqhLuMPg1iV3eHmkDhvjb1aYzEfiYiBjA4XsZJi8QpFtxgQdtEkv1WEIMEDw==", "imap"=>{"source_name"=>"", "source_host"=>"", "source_port"=>"", "source_pass"=>"", "source_ssl"=>"0", "dest_name"=>"", "dest_host"=>"", "dest_port"=>"", "dest_pass"=>"", "dest_ssl"=>"0"}, "commit"=>"Migrar"}
+  Rendering home/send_imap.html.erb within layouts/application
+  Rendered home/_form.html.erb (20.0ms)
+  Rendered home/send_imap.html.erb within layouts/application (26.7ms)
+Completed 200 OK in 77ms (Views: 72.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/imap" for 127.0.0.1 at 2020-03-12 09:02:43 -0400
+Processing by HomeController#imap as HTML
+  Rendering home/imap.html.erb within layouts/application
+  Rendered layouts/includes/_alerts.html.erb (0.9ms)
+  Rendered home/_form.html.erb (12.2ms)
+  Rendered home/imap.html.erb within layouts/application (17.4ms)
+Completed 200 OK in 59ms (Views: 56.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/imap" for 127.0.0.1 at 2020-03-12 09:02:46 -0400
+Processing by HomeController#imap as HTML
+  Rendering home/imap.html.erb within layouts/application
+  Rendered layouts/includes/_alerts.html.erb (0.9ms)
+  Rendered home/_form.html.erb (13.3ms)
+  Rendered home/imap.html.erb within layouts/application (17.7ms)
+Completed 200 OK in 90ms (Views: 87.7ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/imap" for 127.0.0.1 at 2020-03-12 09:02:48 -0400
+Processing by HomeController#send_imap as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"Uowscay5g7lyeTNqvHoZ5Ii8JoPFGp7iVq3J0/tJXbsVh+4hHCrd8aS7CH+Ha728xCWs3XP+ZLUsMlbSnE3D9A==", "imap"=>{"source_name"=>"", "source_host"=>"", "source_port"=>"", "source_pass"=>"", "source_ssl"=>"0", "dest_name"=>"", "dest_host"=>"", "dest_port"=>"", "dest_pass"=>"", "dest_ssl"=>"0"}, "commit"=>"Migrar"}
+  Rendering home/send_imap.html.erb within layouts/application
+  Rendered home/_form.html.erb (29.4ms)
+  Rendered home/send_imap.html.erb within layouts/application (35.1ms)
+Completed 200 OK in 110ms (Views: 104.7ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/imap" for 127.0.0.1 at 2020-03-12 09:02:51 -0400
+Processing by HomeController#send_imap as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"UJuw/bcivcF784HP40rBI3CUsR6qyfOa9NdjFwbXIy0XkHKtB7Hjia0xutrYW2V7PA07QBwtCc2OSPwWYdO9Yg==", "imap"=>{"source_name"=>"", "source_host"=>"", "source_port"=>"", "source_pass"=>"", "source_ssl"=>"0", "dest_name"=>"", "dest_host"=>"", "dest_port"=>"", "dest_pass"=>"", "dest_ssl"=>"0"}, "commit"=>"Migrar"}
+  Rendering home/send_imap.html.erb within layouts/application
+  Rendered home/_form.html.erb (16.6ms)
+  Rendered home/send_imap.html.erb within layouts/application (21.4ms)
+Completed 200 OK in 88ms (Views: 82.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/imap" for 127.0.0.1 at 2020-03-12 09:03:22 -0400
+Processing by HomeController#imap as HTML
+  Rendering home/imap.html.erb within layouts/application
+  Rendered layouts/includes/_alerts.html.erb (0.9ms)
+  Rendered home/_form.html.erb (12.5ms)
+  Rendered home/imap.html.erb within layouts/application (17.1ms)
+Completed 200 OK in 303ms (Views: 300.3ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/imap" for 127.0.0.1 at 2020-03-12 09:03:26 -0400
+Processing by HomeController#send_imap as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"F8ZsKfdQvjy6vxOLV4P4TumWF3hEE3yijElOQ0YtwjZQza55R8PgdGx9KJ5sklwWpQ+dJvL3hvX21tFCISlceQ==", "imap"=>{"source_name"=>"", "source_host"=>"", "source_port"=>"", "source_pass"=>"", "source_ssl"=>"0", "dest_name"=>"", "dest_host"=>"", "dest_port"=>"", "dest_pass"=>"", "dest_ssl"=>"0"}, "commit"=>"Migrar"}
+  Rendering home/send_imap.html.erb within layouts/application
+  Rendered home/_form.html.erb (14.2ms)
+  Rendered home/send_imap.html.erb within layouts/application (19.3ms)
+Completed 200 OK in 68ms (Views: 64.1ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/imap" for 127.0.0.1 at 2020-03-12 09:03:31 -0400
+Processing by HomeController#send_imap as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"ZvCq0F5CUTwjZNRtshXWX78zahX1mlVhAFANQEzemnMh+2iA7tEPdPWm73iJBHIH86rgS0N+rzZ6z5JBK9oEPA==", "imap"=>{"source_name"=>"", "source_host"=>"", "source_port"=>"", "source_pass"=>"", "source_ssl"=>"0", "dest_name"=>"", "dest_host"=>"", "dest_port"=>"", "dest_pass"=>"", "dest_ssl"=>"0"}, "commit"=>"Migrar"}
+  Rendering home/send_imap.html.erb within layouts/application
+  Rendered home/_form.html.erb (21.3ms)
+  Rendered home/send_imap.html.erb within layouts/application (25.3ms)
+Completed 200 OK in 76ms (Views: 70.2ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/imap" for 127.0.0.1 at 2020-03-12 09:03:35 -0400
+Processing by HomeController#send_imap as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"EsmShJmC/BdVpART0F7Az/uwahA3ZmAGyynIQ4//6YFVwlDUKRGiX4NmP0brT2SXtyngToGCmlGxtldC6Pt3zg==", "imap"=>{"source_name"=>"", "source_host"=>"", "source_port"=>"", "source_pass"=>"", "source_ssl"=>"0", "dest_name"=>"", "dest_host"=>"", "dest_port"=>"", "dest_pass"=>"", "dest_ssl"=>"0"}, "commit"=>"Migrar"}
+  Rendering home/send_imap.html.erb within layouts/application
+  Rendered home/_form.html.erb (23.8ms)
+  Rendered home/send_imap.html.erb within layouts/application (29.8ms)
+Completed 200 OK in 104ms (Views: 98.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/imap" for 127.0.0.1 at 2020-03-12 09:03:56 -0400
+Processing by HomeController#imap as HTML
+  Rendering home/imap.html.erb within layouts/application
+  Rendered layouts/includes/_alerts.html.erb (0.9ms)
+  Rendered home/_form.html.erb (15.6ms)
+  Rendered home/imap.html.erb within layouts/application (23.9ms)
+Completed 200 OK in 204ms (Views: 201.6ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/imap" for 127.0.0.1 at 2020-03-12 09:04:01 -0400
+Processing by HomeController#send_imap as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"jeCQYwu56tnuSr+oyfemS38Qk/IthaUKVa8hhtOOyqjK61Izuyq0kTiIhL3y5gITM4kZrJthX10vML6HtIpU5w==", "imap"=>{"source_name"=>"", "source_host"=>"", "source_port"=>"", "source_pass"=>"", "source_ssl"=>"0", "dest_name"=>"", "dest_host"=>"", "dest_port"=>"", "dest_pass"=>"", "dest_ssl"=>"0"}, "commit"=>"Migrar"}
+  Rendering home/send_imap.html.erb within layouts/application
+  Rendered home/_form.html.erb (21.0ms)
+  Rendered home/send_imap.html.erb within layouts/application (25.8ms)
+Completed 200 OK in 91ms (Views: 86.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/imap" for 127.0.0.1 at 2020-03-12 09:04:16 -0400
+Processing by HomeController#imap as HTML
+  Rendering home/imap.html.erb within layouts/application
+  Rendered layouts/includes/_alerts.html.erb (1.0ms)
+  Rendered home/_form.html.erb (16.5ms)
+  Rendered home/imap.html.erb within layouts/application (22.4ms)
+Completed 200 OK in 75ms (Views: 68.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/imap" for 127.0.0.1 at 2020-03-12 09:04:31 -0400
+Processing by HomeController#imap as HTML
+  Rendering home/imap.html.erb within layouts/application
+  Rendered layouts/includes/_alerts.html.erb (1.0ms)
+  Rendered home/_form.html.erb (15.5ms)
+  Rendered home/imap.html.erb within layouts/application (27.1ms)
+Completed 200 OK in 80ms (Views: 77.5ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/imap" for 127.0.0.1 at 2020-03-12 09:04:34 -0400
+Processing by HomeController#send_imap as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"O4QuKajaJy3MkT84L3NGrGn/KGtFMU/9jGkqn6OnJ8Z8j+x5GEl5ZRpTBC0UYuL0JWaiNfPVtar29rWexKO5iQ==", "imap"=>{"source_name"=>"", "source_host"=>"", "source_port"=>"", "source_pass"=>"", "source_ssl"=>"0", "dest_name"=>"", "dest_host"=>"", "dest_port"=>"", "dest_pass"=>"", "dest_ssl"=>"0"}, "commit"=>"Migrar"}
+Redirected to http://localhost:3000/imap
+Completed 302 Found in 8ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/imap" for 127.0.0.1 at 2020-03-12 09:04:34 -0400
+Processing by HomeController#imap as HTML
+  Rendering home/imap.html.erb within layouts/application
+  Rendered layouts/includes/_alerts.html.erb (1.0ms)
+  Rendered home/_form.html.erb (13.5ms)
+  Rendered home/imap.html.erb within layouts/application (20.6ms)
+Completed 200 OK in 77ms (Views: 74.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/imap" for 127.0.0.1 at 2020-03-12 09:04:51 -0400
+Processing by HomeController#imap as HTML
+  Rendering home/imap.html.erb within layouts/application
+  Rendered layouts/includes/_alerts.html.erb (0.8ms)
+  Rendered home/_form.html.erb (16.1ms)
+  Rendered home/imap.html.erb within layouts/application (21.8ms)
+Completed 200 OK in 190ms (Views: 188.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/imap" for 127.0.0.1 at 2020-03-12 09:04:53 -0400
+Processing by HomeController#imap as HTML
+  Rendering home/imap.html.erb within layouts/application
+  Rendered layouts/includes/_alerts.html.erb (0.8ms)
+  Rendered home/_form.html.erb (12.8ms)
+  Rendered home/imap.html.erb within layouts/application (17.1ms)
+Completed 200 OK in 73ms (Views: 70.8ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/imap" for 127.0.0.1 at 2020-03-12 09:04:56 -0400
+Processing by HomeController#send_imap as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"7iZp8EFoxpCdRbUTzWZc3Rb5UE9ipmphs+6JvgYrhsupLaug8fuY2EuHjgb2d/iFWmDaEdRCkDbJcRa/YS8YhA==", "imap"=>{"source_name"=>"", "source_host"=>"", "source_port"=>"", "source_pass"=>"", "source_ssl"=>"0", "dest_name"=>"", "dest_host"=>"", "dest_port"=>"", "dest_pass"=>"", "dest_ssl"=>"0"}, "commit"=>"Migrar"}
+Redirected to http://localhost:3000/imap
+Completed 302 Found in 4ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/imap" for 127.0.0.1 at 2020-03-12 09:04:56 -0400
+Processing by HomeController#imap as HTML
+  Rendering home/imap.html.erb within layouts/application
+  Rendered layouts/includes/_alerts.html.erb (0.8ms)
+  Rendered home/_form.html.erb (15.9ms)
+  Rendered home/imap.html.erb within layouts/application (20.2ms)
+Completed 200 OK in 64ms (Views: 61.9ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/imap" for 127.0.0.1 at 2020-03-12 09:04:58 -0400
+Processing by HomeController#send_imap as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"TNQhthmetoXfIUKvoT0rO6CqoFGl2BnY9ofk7UzWmA0L3+PmqQ3ozQnjebqaLI9j7DMqDxM844+MGHvsK9IGQg==", "imap"=>{"source_name"=>"", "source_host"=>"", "source_port"=>"", "source_pass"=>"", "source_ssl"=>"0", "dest_name"=>"", "dest_host"=>"", "dest_port"=>"", "dest_pass"=>"", "dest_ssl"=>"0"}, "commit"=>"Migrar"}
+Redirected to http://localhost:3000/imap
+Completed 302 Found in 9ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/imap" for 127.0.0.1 at 2020-03-12 09:04:58 -0400
+Processing by HomeController#imap as HTML
+  Rendering home/imap.html.erb within layouts/application
+  Rendered layouts/includes/_alerts.html.erb (3.3ms)
+  Rendered home/_form.html.erb (16.3ms)
+  Rendered home/imap.html.erb within layouts/application (25.5ms)
+Completed 200 OK in 84ms (Views: 79.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/imap" for 127.0.0.1 at 2020-03-12 09:05:47 -0400
+Processing by HomeController#imap as HTML
+  Rendering home/imap.html.erb within layouts/application
+  Rendered layouts/includes/_alerts.html.erb (1.1ms)
+  Rendered home/_form.html.erb (17.6ms)
+  Rendered home/imap.html.erb within layouts/application (24.8ms)
+Completed 200 OK in 81ms (Views: 73.5ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/imap" for 127.0.0.1 at 2020-03-12 09:05:51 -0400
+Processing by HomeController#send_imap as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"J3vs88vUI9n2KNJ1xUY+dxfjdmDCoSLF1eyil07SzhBgcC6je0d9kSDq6WD+V5ovW3r8PnRF2JKvcz2WKdZQXw==", "imap"=>{"source_name"=>"", "source_host"=>"", "source_port"=>"", "source_pass"=>"", "source_ssl"=>"0", "dest_name"=>"", "dest_host"=>"", "dest_port"=>"", "dest_pass"=>"", "dest_ssl"=>"0"}, "commit"=>"Migrar"}
+  Rendering home/send_imap.html.erb within layouts/application
+  Rendered home/_form.html.erb (16.2ms)
+  Rendered home/send_imap.html.erb within layouts/application (24.8ms)
+Completed 200 OK in 4341ms (Views: 70.2ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/imap" for 127.0.0.1 at 2020-03-12 09:06:02 -0400
+Processing by HomeController#send_imap as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"2fkFqL333lyy8rrjqPdFRHfuw30f4FzFfbWYHumDRTGe8sf4DWSAFGQwgfaT5uEcO3dJI6kEppIHKgcfjofbfg==", "imap"=>{"source_name"=>"", "source_host"=>"", "source_port"=>"", "source_pass"=>"", "source_ssl"=>"0", "dest_name"=>"", "dest_host"=>"", "dest_port"=>"", "dest_pass"=>"", "dest_ssl"=>"0"}, "commit"=>"Migrar"}
+  Rendering home/send_imap.html.erb within layouts/application
+  Rendered home/_form.html.erb (17.0ms)
+  Rendered home/send_imap.html.erb within layouts/application (25.6ms)
+Completed 200 OK in 112ms (Views: 83.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/imap" for 127.0.0.1 at 2020-03-12 09:06:40 -0400
+Processing by HomeController#imap as HTML
+  Rendering home/imap.html.erb within layouts/application
+  Rendered layouts/includes/_alerts.html.erb (0.9ms)
+  Rendered home/_form.html.erb (31.4ms)
+  Rendered home/imap.html.erb within layouts/application (37.3ms)
+Completed 200 OK in 229ms (Views: 226.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/imap" for 127.0.0.1 at 2020-03-12 09:07:09 -0400
+Processing by HomeController#imap as HTML
+  Rendering home/imap.html.erb within layouts/application
+  Rendered layouts/includes/_alerts.html.erb (0.9ms)
+  Rendered home/_form.html.erb (13.4ms)
+  Rendered home/imap.html.erb within layouts/application (17.9ms)
+Completed 200 OK in 67ms (Views: 65.5ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/imap" for 127.0.0.1 at 2020-03-12 09:07:12 -0400
+Processing by HomeController#send_imap as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"tuSNKgfF8V6T8zXsHTAlJdqrPbxWFPGyNk0//btuX2Xx7096t1avFkUxDvkmIYF9ljK34uDwC+VM0qD83GrBKg==", "imap"=>{"source_name"=>"", "source_host"=>"", "source_port"=>"", "source_pass"=>"", "source_ssl"=>"0", "dest_name"=>"", "dest_host"=>"", "dest_port"=>"", "dest_pass"=>"", "dest_ssl"=>"0"}, "commit"=>"Migrar"}
+  Rendering home/send_imap.html.erb within layouts/application
+  Rendered home/_form.html.erb (23.2ms)
+  Rendered home/send_imap.html.erb within layouts/application (34.3ms)
+Completed 200 OK in 140ms (Views: 117.4ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/imap" for 127.0.0.1 at 2020-03-12 09:07:17 -0400
+Processing by HomeController#send_imap as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"AZH1du082ao80RDh5uf8JEAhUWhcE0p5uNV/4tRMpTxGmjcmXa+H4uoTK/Td9lh8DLjbNur3sC7CSuDjs0g7cw==", "imap"=>{"source_name"=>"", "source_host"=>"", "source_port"=>"", "source_pass"=>"", "source_ssl"=>"0", "dest_name"=>"", "dest_host"=>"", "dest_port"=>"", "dest_pass"=>"", "dest_ssl"=>"0"}, "commit"=>"Migrar"}
+  Rendering home/send_imap.html.erb within layouts/application
+  Rendered home/_form.html.erb (13.9ms)
+  Rendered home/send_imap.html.erb within layouts/application (21.3ms)
+Completed 200 OK in 88ms (Views: 69.4ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/imap" for 127.0.0.1 at 2020-03-12 09:07:21 -0400
+Processing by HomeController#send_imap as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"o+UZWLJnuwRM0m3W5shmrqd/zwpC6QupnCJlIrzej2Tk7tsIAvTlTJoQVsPd2cL26+ZFVPQN8f7mvfoj29oRKw==", "imap"=>{"source_name"=>"", "source_host"=>"", "source_port"=>"", "source_pass"=>"", "source_ssl"=>"0", "dest_name"=>"", "dest_host"=>"", "dest_port"=>"", "dest_pass"=>"", "dest_ssl"=>"0"}, "commit"=>"Migrar"}
+  Rendering home/send_imap.html.erb within layouts/application
+  Rendered home/_form.html.erb (15.7ms)
+  Rendered home/send_imap.html.erb within layouts/application (27.4ms)
+Completed 200 OK in 90ms (Views: 71.7ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/imap" for 127.0.0.1 at 2020-03-12 09:07:25 -0400
+Processing by HomeController#send_imap as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"CeHYox8h5jz8vVvCwf5ex/ZODgmvCpE8GTG5+f4iRuBO6hrzr7K4dCp/YNf67/qfuteEVxnua2tjrib4mSbYrw==", "imap"=>{"source_name"=>"", "source_host"=>"", "source_port"=>"", "source_pass"=>"", "source_ssl"=>"0", "dest_name"=>"", "dest_host"=>"", "dest_port"=>"", "dest_pass"=>"", "dest_ssl"=>"0"}, "commit"=>"Migrar"}
+  Rendering home/send_imap.html.erb within layouts/application
+  Rendered home/_form.html.erb (15.3ms)
+  Rendered home/send_imap.html.erb within layouts/application (23.2ms)
+Completed 200 OK in 94ms (Views: 67.3ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/imap" for 127.0.0.1 at 2020-03-12 09:07:29 -0400
+Processing by HomeController#send_imap as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"IXHdkACU3JLeBzxPM7v2ElqTuzWg/hb/0dxcjx9xSzhmeh/AsAeC2gjFB1oIqlJKFgoxaxYa7KirQ8OOeHXVdw==", "imap"=>{"source_name"=>"", "source_host"=>"", "source_port"=>"", "source_pass"=>"", "source_ssl"=>"0", "dest_name"=>"", "dest_host"=>"", "dest_port"=>"", "dest_pass"=>"", "dest_ssl"=>"0"}, "commit"=>"Migrar"}
+  Rendering home/send_imap.html.erb within layouts/application
+  Rendered home/_form.html.erb (18.9ms)
+  Rendered home/send_imap.html.erb within layouts/application (45.0ms)
+Completed 200 OK in 110ms (Views: 93.1ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/imap" for 127.0.0.1 at 2020-03-12 09:07:38 -0400
+Processing by HomeController#send_imap as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"FGJLcQ9Q9k/VxmWrfpsZ4Ooxpi00sZ3/9lEPNjWTmeRTaYkhv8OoBwMEXr5Fir24pqgsc4JVZ6iMzpA3UpcHqw==", "imap"=>{"source_name"=>"", "source_host"=>"", "source_port"=>"", "source_pass"=>"", "source_ssl"=>"0", "dest_name"=>"", "dest_host"=>"", "dest_port"=>"", "dest_pass"=>"", "dest_ssl"=>"0"}, "commit"=>"Migrar"}
+  Rendering home/send_imap.html.erb within layouts/application
+  Rendered home/_form.html.erb (23.0ms)
+  Rendered home/send_imap.html.erb within layouts/application (36.8ms)
+Completed 200 OK in 115ms (Views: 93.8ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/imap" for 127.0.0.1 at 2020-03-12 09:08:08 -0400
+Processing by HomeController#send_imap as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"0nMU4srDaIp83BuJP+1OfdTPKzOlvdHB57vqTBtYRYKVeNayelA2wqoeIJwE/OolmFahbRNZK5adJHVNfFzbzQ==", "imap"=>{"source_name"=>"", "source_host"=>"", "source_port"=>"", "source_pass"=>"", "source_ssl"=>"0", "dest_name"=>"", "dest_host"=>"", "dest_port"=>"", "dest_pass"=>"", "dest_ssl"=>"0"}, "commit"=>"Migrar"}
+  Rendering home/send_imap.html.erb within layouts/application
+  Rendered home/_form.html.erb (21.8ms)
+  Rendered home/send_imap.html.erb within layouts/application (35.9ms)
+Completed 200 OK in 119ms (Views: 89.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/imap" for 127.0.0.1 at 2020-03-12 09:08:15 -0400
+Processing by HomeController#imap as HTML
+  Rendering home/imap.html.erb within layouts/application
+  Rendered layouts/includes/_alerts.html.erb (1.0ms)
+  Rendered home/_form.html.erb (13.9ms)
+  Rendered home/imap.html.erb within layouts/application (21.0ms)
+Completed 200 OK in 73ms (Views: 66.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/imap" for 127.0.0.1 at 2020-03-12 09:08:20 -0400
+Processing by HomeController#imap as HTML
+  Rendering home/imap.html.erb within layouts/application
+  Rendered layouts/includes/_alerts.html.erb (1.9ms)
+  Rendered home/_form.html.erb (13.7ms)
+  Rendered home/imap.html.erb within layouts/application (21.5ms)
+Completed 200 OK in 77ms (Views: 74.2ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/imap" for 127.0.0.1 at 2020-03-12 09:08:22 -0400
+Processing by HomeController#send_imap as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"1whQE4hmHY88MVsUVhqDgGsU2cEgl5Sj6cMord3B9biQA5JDOPVDx+rzYAFtCyfYJ41Tn5ZzbvSTXLesusVr9w==", "imap"=>{"source_name"=>"", "source_host"=>"", "source_port"=>"", "source_pass"=>"", "source_ssl"=>"0", "dest_name"=>"", "dest_host"=>"", "dest_port"=>"", "dest_pass"=>"", "dest_ssl"=>"0"}, "commit"=>"Migrar"}
+  Rendering home/send_imap.html.erb within layouts/application
+  Rendered home/_form.html.erb (20.1ms)
+  Rendered home/send_imap.html.erb within layouts/application (32.1ms)
+Completed 200 OK in 102ms (Views: 79.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/imap" for 127.0.0.1 at 2020-03-12 09:08:52 -0400
+Processing by HomeController#imap as HTML
+  Rendering home/imap.html.erb within layouts/application
+  Rendered layouts/includes/_alerts.html.erb (0.9ms)
+  Rendered home/_form.html.erb (14.9ms)
+  Rendered home/imap.html.erb within layouts/application (19.2ms)
+Completed 200 OK in 59ms (Views: 56.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/imap" for 127.0.0.1 at 2020-03-12 09:08:55 -0400
+Processing by HomeController#imap as HTML
+  Rendering home/imap.html.erb within layouts/application
+  Rendered layouts/includes/_alerts.html.erb (1.1ms)
+  Rendered home/_form.html.erb (16.2ms)
+  Rendered home/imap.html.erb within layouts/application (23.5ms)
+Completed 200 OK in 132ms (Views: 127.8ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/imap" for 127.0.0.1 at 2020-03-12 09:09:01 -0400
+Processing by HomeController#send_imap as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"r4aRccffL9CfItgxicRtDSUjkL0nJkPdv3Y7kWE16r/ojVMhd0xxmEng4ySy1clVaboa45HCuYrF6aSQBjF08A==", "imap"=>{"source_name"=>"gdfgf", "source_host"=>"dg", "source_port"=>"", "source_pass"=>"", "source_ssl"=>"0", "dest_name"=>"", "dest_host"=>"", "dest_port"=>"", "dest_pass"=>"", "dest_ssl"=>"0"}, "commit"=>"Migrar"}
+  Rendering home/send_imap.html.erb within layouts/application
+  Rendered home/_form.html.erb (24.3ms)
+  Rendered home/send_imap.html.erb within layouts/application (35.3ms)
+Completed 200 OK in 463ms (Views: 94.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/imap" for 127.0.0.1 at 2020-03-12 09:10:28 -0400
+Processing by HomeController#imap as HTML
+  Rendering home/imap.html.erb within layouts/application
+  Rendered layouts/includes/_alerts.html.erb (0.9ms)
+  Rendered home/_form.html.erb (11.8ms)
+  Rendered home/imap.html.erb within layouts/application (16.1ms)
+Completed 200 OK in 175ms (Views: 173.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/imap" for 127.0.0.1 at 2020-03-12 09:10:29 -0400
+Processing by HomeController#imap as HTML
+  Rendering home/imap.html.erb within layouts/application
+  Rendered layouts/includes/_alerts.html.erb (0.9ms)
+  Rendered home/_form.html.erb (15.7ms)
+  Rendered home/imap.html.erb within layouts/application (23.2ms)
+Completed 200 OK in 90ms (Views: 86.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/imap" for 127.0.0.1 at 2020-03-12 09:10:29 -0400
+Processing by HomeController#imap as HTML
+  Rendering home/imap.html.erb within layouts/application
+  Rendered layouts/includes/_alerts.html.erb (0.9ms)
+  Rendered home/_form.html.erb (23.2ms)
+  Rendered home/imap.html.erb within layouts/application (32.2ms)
+Completed 200 OK in 90ms (Views: 87.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/imap" for 127.0.0.1 at 2020-03-12 09:10:30 -0400
+Processing by HomeController#imap as HTML
+  Rendering home/imap.html.erb within layouts/application
+  Rendered layouts/includes/_alerts.html.erb (1.0ms)
+  Rendered home/_form.html.erb (16.5ms)
+  Rendered home/imap.html.erb within layouts/application (25.9ms)
+Completed 200 OK in 71ms (Views: 68.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/imap" for 127.0.0.1 at 2020-03-12 09:10:31 -0400
+Processing by HomeController#imap as HTML
+  Rendering home/imap.html.erb within layouts/application
+  Rendered layouts/includes/_alerts.html.erb (1.2ms)
+  Rendered home/_form.html.erb (17.4ms)
+  Rendered home/imap.html.erb within layouts/application (25.9ms)
+Completed 200 OK in 98ms (Views: 95.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/imap" for 127.0.0.1 at 2020-03-12 09:10:32 -0400
+Processing by HomeController#imap as HTML
+  Rendering home/imap.html.erb within layouts/application
+  Rendered layouts/includes/_alerts.html.erb (1.1ms)
+  Rendered home/_form.html.erb (16.0ms)
+  Rendered home/imap.html.erb within layouts/application (25.9ms)
+Completed 200 OK in 83ms (Views: 80.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/imap" for 127.0.0.1 at 2020-03-12 09:10:32 -0400
+Processing by HomeController#imap as HTML
+  Rendering home/imap.html.erb within layouts/application
+  Rendered layouts/includes/_alerts.html.erb (1.0ms)
+  Rendered home/_form.html.erb (23.6ms)
+  Rendered home/imap.html.erb within layouts/application (31.9ms)
+Completed 200 OK in 105ms (Views: 102.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/imap" for 127.0.0.1 at 2020-03-12 09:10:33 -0400
+Processing by HomeController#imap as HTML
+  Rendering home/imap.html.erb within layouts/application
+  Rendered layouts/includes/_alerts.html.erb (0.9ms)
+  Rendered home/_form.html.erb (26.7ms)
+  Rendered home/imap.html.erb within layouts/application (32.2ms)
+Completed 200 OK in 87ms (Views: 85.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/imap" for 127.0.0.1 at 2020-03-12 09:10:33 -0400
+Processing by HomeController#imap as HTML
+  Rendering home/imap.html.erb within layouts/application
+  Rendered layouts/includes/_alerts.html.erb (1.0ms)
+  Rendered home/_form.html.erb (18.1ms)
+  Rendered home/imap.html.erb within layouts/application (23.0ms)
+Completed 200 OK in 93ms (Views: 90.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/imap" for 127.0.0.1 at 2020-03-12 09:10:34 -0400
+Processing by HomeController#imap as HTML
+  Rendering home/imap.html.erb within layouts/application
+  Rendered layouts/includes/_alerts.html.erb (1.5ms)
+  Rendered home/_form.html.erb (16.5ms)
+  Rendered home/imap.html.erb within layouts/application (22.3ms)
+Completed 200 OK in 93ms (Views: 90.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/imap" for 127.0.0.1 at 2020-03-12 09:10:35 -0400
+Processing by HomeController#imap as HTML
+  Rendering home/imap.html.erb within layouts/application
+  Rendered layouts/includes/_alerts.html.erb (0.8ms)
+  Rendered home/_form.html.erb (24.6ms)
+  Rendered home/imap.html.erb within layouts/application (35.3ms)
+Completed 200 OK in 114ms (Views: 109.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/imap" for 127.0.0.1 at 2020-03-12 09:10:36 -0400
+Processing by HomeController#imap as HTML
+  Rendering home/imap.html.erb within layouts/application
+  Rendered layouts/includes/_alerts.html.erb (1.0ms)
+  Rendered home/_form.html.erb (20.0ms)
+  Rendered home/imap.html.erb within layouts/application (26.0ms)
+Completed 200 OK in 78ms (Views: 75.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/imap" for 127.0.0.1 at 2020-03-12 09:10:36 -0400
+Processing by HomeController#imap as HTML
+  Rendering home/imap.html.erb within layouts/application
+  Rendered layouts/includes/_alerts.html.erb (0.9ms)
+  Rendered home/_form.html.erb (17.0ms)
+  Rendered home/imap.html.erb within layouts/application (25.4ms)
+Completed 200 OK in 86ms (Views: 82.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/imap" for 127.0.0.1 at 2020-03-12 09:10:37 -0400
+Processing by HomeController#imap as HTML
+  Rendering home/imap.html.erb within layouts/application
+  Rendered layouts/includes/_alerts.html.erb (1.1ms)
+  Rendered home/_form.html.erb (37.2ms)
+  Rendered home/imap.html.erb within layouts/application (49.0ms)
+Completed 200 OK in 114ms (Views: 110.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/imap" for 127.0.0.1 at 2020-03-12 09:10:38 -0400
+Processing by HomeController#imap as HTML
+  Rendering home/imap.html.erb within layouts/application
+  Rendered layouts/includes/_alerts.html.erb (4.1ms)
+  Rendered home/_form.html.erb (18.4ms)
+  Rendered home/imap.html.erb within layouts/application (27.5ms)
+Completed 200 OK in 107ms (Views: 104.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/imap" for 127.0.0.1 at 2020-03-12 09:10:38 -0400
+Processing by HomeController#imap as HTML
+  Rendering home/imap.html.erb within layouts/application
+  Rendered layouts/includes/_alerts.html.erb (8.6ms)
+  Rendered home/_form.html.erb (23.1ms)
+  Rendered home/imap.html.erb within layouts/application (37.3ms)
+Completed 200 OK in 101ms (Views: 96.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/imap" for 127.0.0.1 at 2020-03-12 09:10:39 -0400
+Processing by HomeController#imap as HTML
+  Rendering home/imap.html.erb within layouts/application
+  Rendered layouts/includes/_alerts.html.erb (1.0ms)
+  Rendered home/_form.html.erb (17.8ms)
+  Rendered home/imap.html.erb within layouts/application (31.9ms)
+Completed 200 OK in 90ms (Views: 87.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/imap" for 127.0.0.1 at 2020-03-12 09:10:39 -0400
+Processing by HomeController#imap as HTML
+  Rendering home/imap.html.erb within layouts/application
+  Rendered layouts/includes/_alerts.html.erb (1.0ms)
+  Rendered home/_form.html.erb (16.2ms)
+  Rendered home/imap.html.erb within layouts/application (30.5ms)
+Completed 200 OK in 144ms (Views: 142.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/imap" for 127.0.0.1 at 2020-03-12 09:10:41 -0400
+Processing by HomeController#imap as HTML
+  Rendering home/imap.html.erb within layouts/application
+  Rendered layouts/includes/_alerts.html.erb (1.0ms)
+  Rendered home/_form.html.erb (34.8ms)
+  Rendered home/imap.html.erb within layouts/application (41.8ms)
+Completed 200 OK in 469ms (Views: 466.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/imap" for 127.0.0.1 at 2020-03-12 09:10:42 -0400
+Processing by HomeController#imap as HTML
+  Rendering home/imap.html.erb within layouts/application
+  Rendered layouts/includes/_alerts.html.erb (1.0ms)
+  Rendered home/_form.html.erb (17.0ms)
+  Rendered home/imap.html.erb within layouts/application (21.6ms)
+Completed 200 OK in 84ms (Views: 80.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/imap" for 127.0.0.1 at 2020-03-12 09:10:43 -0400
+Processing by HomeController#imap as HTML
+  Rendering home/imap.html.erb within layouts/application
+  Rendered layouts/includes/_alerts.html.erb (1.0ms)
+  Rendered home/_form.html.erb (16.6ms)
+  Rendered home/imap.html.erb within layouts/application (23.3ms)
+Completed 200 OK in 71ms (Views: 68.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/imap" for 127.0.0.1 at 2020-03-12 09:10:43 -0400
+Processing by HomeController#imap as HTML
+  Rendering home/imap.html.erb within layouts/application
+  Rendered layouts/includes/_alerts.html.erb (1.1ms)
+  Rendered home/_form.html.erb (18.4ms)
+  Rendered home/imap.html.erb within layouts/application (30.3ms)
+Completed 200 OK in 95ms (Views: 90.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/imap" for 127.0.0.1 at 2020-03-12 09:10:44 -0400
+Processing by HomeController#imap as HTML
+  Rendering home/imap.html.erb within layouts/application
+  Rendered layouts/includes/_alerts.html.erb (3.3ms)
+  Rendered home/_form.html.erb (20.6ms)
+  Rendered home/imap.html.erb within layouts/application (33.9ms)
+Completed 200 OK in 110ms (Views: 108.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/imap" for 127.0.0.1 at 2020-03-12 09:10:44 -0400
+Processing by HomeController#imap as HTML
+  Rendering home/imap.html.erb within layouts/application
+  Rendered layouts/includes/_alerts.html.erb (1.1ms)
+  Rendered home/_form.html.erb (16.7ms)
+  Rendered home/imap.html.erb within layouts/application (25.0ms)
+Completed 200 OK in 105ms (Views: 100.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/imap" for 127.0.0.1 at 2020-03-12 09:10:45 -0400
+Processing by HomeController#imap as HTML
+  Rendering home/imap.html.erb within layouts/application
+  Rendered layouts/includes/_alerts.html.erb (0.9ms)
+  Rendered home/_form.html.erb (17.5ms)
+  Rendered home/imap.html.erb within layouts/application (29.4ms)
+Completed 200 OK in 101ms (Views: 97.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/imap" for 127.0.0.1 at 2020-03-12 09:10:46 -0400
+Processing by HomeController#imap as HTML
+  Rendering home/imap.html.erb within layouts/application
+  Rendered layouts/includes/_alerts.html.erb (1.3ms)
+  Rendered home/_form.html.erb (16.4ms)
+  Rendered home/imap.html.erb within layouts/application (26.4ms)
+Completed 200 OK in 94ms (Views: 89.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/imap" for 127.0.0.1 at 2020-03-12 09:10:46 -0400
+Processing by HomeController#imap as HTML
+  Rendering home/imap.html.erb within layouts/application
+  Rendered layouts/includes/_alerts.html.erb (0.9ms)
+  Rendered home/_form.html.erb (32.9ms)
+  Rendered home/imap.html.erb within layouts/application (45.0ms)
+Completed 200 OK in 114ms (Views: 111.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/imap" for 127.0.0.1 at 2020-03-12 09:10:47 -0400
+Processing by HomeController#imap as HTML
+  Rendering home/imap.html.erb within layouts/application
+  Rendered layouts/includes/_alerts.html.erb (1.8ms)
+  Rendered home/_form.html.erb (18.7ms)
+  Rendered home/imap.html.erb within layouts/application (24.5ms)
+Completed 200 OK in 74ms (Views: 72.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/imap" for 127.0.0.1 at 2020-03-12 09:10:47 -0400
+Processing by HomeController#imap as HTML
+  Rendering home/imap.html.erb within layouts/application
+  Rendered layouts/includes/_alerts.html.erb (2.1ms)
+  Rendered home/_form.html.erb (19.5ms)
+  Rendered home/imap.html.erb within layouts/application (32.7ms)
+Completed 200 OK in 470ms (Views: 468.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/imap" for 127.0.0.1 at 2020-03-12 09:10:51 -0400
+Processing by HomeController#imap as HTML
+  Rendering home/imap.html.erb within layouts/application
+  Rendered layouts/includes/_alerts.html.erb (1.0ms)
+  Rendered home/_form.html.erb (14.1ms)
+  Rendered home/imap.html.erb within layouts/application (23.0ms)
+Completed 200 OK in 69ms (Views: 67.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/imap" for 127.0.0.1 at 2020-03-12 09:10:54 -0400
+Processing by HomeController#imap as HTML
+  Rendering home/imap.html.erb within layouts/application
+  Rendered layouts/includes/_alerts.html.erb (0.9ms)
+  Rendered home/_form.html.erb (21.7ms)
+  Rendered home/imap.html.erb within layouts/application (30.2ms)
+Completed 200 OK in 101ms (Views: 99.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/imap" for 127.0.0.1 at 2020-03-12 09:10:57 -0400
+Processing by HomeController#imap as HTML
+  Rendering home/imap.html.erb within layouts/application
+  Rendered layouts/includes/_alerts.html.erb (0.9ms)
+  Rendered home/_form.html.erb (17.9ms)
+  Rendered home/imap.html.erb within layouts/application (23.0ms)
+Completed 200 OK in 77ms (Views: 75.6ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/imap" for 127.0.0.1 at 2020-03-12 09:10:57 -0400
+Processing by HomeController#send_imap as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"Xd7NLYC1ZQ69GazjLqIy4jZcRsahabpprx3+8ECRREIa1Q99MCY7Rmvbl/YVs5a6esXMmBeNQD7VgmHxJ5XaDQ==", "imap"=>{"source_name"=>"", "source_host"=>"", "source_port"=>"", "source_pass"=>"", "source_ssl"=>"0", "dest_name"=>"", "dest_host"=>"", "dest_port"=>"", "dest_pass"=>"", "dest_ssl"=>"0"}, "commit"=>"Migrar"}
+  Rendering home/send_imap.html.erb within layouts/application
+  Rendered home/_form.html.erb (18.9ms)
+  Rendered home/send_imap.html.erb within layouts/application (38.1ms)
+Completed 200 OK in 131ms (Views: 103.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/imap" for 127.0.0.1 at 2020-03-12 09:11:01 -0400
+Processing by HomeController#imap as HTML
+  Rendering home/imap.html.erb within layouts/application
+  Rendered layouts/includes/_alerts.html.erb (1.2ms)
+  Rendered home/_form.html.erb (22.5ms)
+  Rendered home/imap.html.erb within layouts/application (35.5ms)
+Started POST "/imap" for 127.0.0.1 at 2020-03-12 09:11:01 -0400
+Processing by HomeController#send_imap as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"LUiJjFBAyXbgjWw39yCplKS3TyOwG3pgVwiSHLJu+ERqQ0vc4NOXPjZPVyLMMQ3M6C7FfQb/gDctlw0d1WpmCw==", "imap"=>{"source_name"=>"", "source_host"=>"", "source_port"=>"", "source_pass"=>"", "source_ssl"=>"0", "dest_name"=>"", "dest_host"=>"", "dest_port"=>"", "dest_pass"=>"", "dest_ssl"=>"0"}, "commit"=>"Migrar"}
+Completed 200 OK in 132ms (Views: 129.6ms | ActiveRecord: 0.0ms)
+
+
+  Rendering home/send_imap.html.erb within layouts/application
+  Rendered home/_form.html.erb (17.1ms)
+  Rendered home/send_imap.html.erb within layouts/application (52.4ms)
+Completed 200 OK in 151ms (Views: 106.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/imap" for 127.0.0.1 at 2020-03-12 09:11:04 -0400
+Processing by HomeController#imap as HTML
+  Rendering home/imap.html.erb within layouts/application
+  Rendered layouts/includes/_alerts.html.erb (1.1ms)
+  Rendered home/_form.html.erb (21.8ms)
+  Rendered home/imap.html.erb within layouts/application (30.4ms)
+Started POST "/imap" for 127.0.0.1 at 2020-03-12 09:11:04 -0400
+Processing by HomeController#send_imap as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"kzIaPCius67oiVf05P3pZS3mLr2XRxnqb58U7cWgU7PUOdhsmD3t5j5LbOHf7E09YX+k4yGj470VAIvsoqTN/A==", "imap"=>{"source_name"=>"", "source_host"=>"", "source_port"=>"", "source_pass"=>"", "source_ssl"=>"0", "dest_name"=>"", "dest_host"=>"", "dest_port"=>"", "dest_pass"=>"", "dest_ssl"=>"0"}, "commit"=>"Migrar"}
+Completed 200 OK in 124ms (Views: 121.9ms | ActiveRecord: 0.0ms)
+
+
+  Rendering home/send_imap.html.erb within layouts/application
+  Rendered home/_form.html.erb (15.9ms)
+  Rendered home/send_imap.html.erb within layouts/application (26.6ms)
+Completed 200 OK in 121ms (Views: 88.6ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/imap" for 127.0.0.1 at 2020-03-12 09:11:49 -0400
+Processing by HomeController#send_imap as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"brr4H6qsL3BVPK4uoLrWkC2Ipytkms5vH1U7wrZr6hopsTpPGj9xOIP+lTubq3LIYREtddJ+NDhlyqTD0W90VQ==", "imap"=>{"source_name"=>"dossantospereira6@gmail.com", "source_host"=>"imap.gmail.com", "source_port"=>"993", "source_pass"=>"novaandradina", "source_ssl"=>"1", "dest_name"=>"leandrobcnams@gmail.com", "dest_host"=>"imap.gmail.com", "dest_port"=>"993", "dest_pass"=>"novaandradina", "dest_ssl"=>"1"}, "commit"=>"Migrar"}
+Started POST "/imap" for 127.0.0.1 at 2020-03-12 09:13:48 -0400
+Started GET "/imap" for 127.0.0.1 at 2020-03-12 09:13:50 -0400
+Processing by HomeController#send_imap as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"brr4H6qsL3BVPK4uoLrWkC2Ipytkms5vH1U7wrZr6hopsTpPGj9xOIP+lTubq3LIYREtddJ+NDhlyqTD0W90VQ==", "imap"=>{"source_name"=>"dossantospereira6@gmail.com", "source_host"=>"imap.gmail.com", "source_port"=>"993", "source_pass"=>"", "source_ssl"=>"1", "dest_name"=>"leandrobcnams@gmail.com", "dest_host"=>"imap.gmail.com", "dest_port"=>"993", "dest_pass"=>"", "dest_ssl"=>"1"}, "commit"=>"Migrar"}
+Processing by HomeController#imap as HTML
+  Rendering home/imap.html.erb within layouts/application
+  Rendered layouts/includes/_alerts.html.erb (1.3ms)
+  Rendered home/_form.html.erb (698.1ms)
+  Rendered home/imap.html.erb within layouts/application (754.4ms)
+Completed 200 OK in 4196ms (Views: 4055.8ms | ActiveRecord: 0.0ms)
+
+
+  Rendering home/send_imap.html.erb within layouts/application
+  Rendered home/_form.html.erb (10.1ms)
+  Rendered home/send_imap.html.erb within layouts/application (18.2ms)
+Completed 200 OK in 4595ms (Views: 122.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/imap" for 127.0.0.1 at 2020-03-12 09:14:38 -0400
+Processing by HomeController#imap as HTML
+  Rendering home/imap.html.erb within layouts/application
+  Rendered layouts/includes/_alerts.html.erb (3.0ms)
+  Rendered home/_form.html.erb (18.0ms)
+  Rendered home/imap.html.erb within layouts/application (27.2ms)
+Completed 200 OK in 231ms (Views: 227.5ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/imap" for 127.0.0.1 at 2020-03-12 09:14:42 -0400
+Processing by HomeController#send_imap as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"/EDiXkc6Ug/eaRE9B+AmI6a3wMp/EpwjFzX9Ygncj4O7SyAO96kMRwirKig88YJ76i5KlMn2ZnRtqmJjbtgRzA==", "imap"=>{"source_name"=>"", "source_host"=>"", "source_port"=>"", "source_pass"=>"", "source_ssl"=>"0", "dest_name"=>"", "dest_host"=>"", "dest_port"=>"", "dest_pass"=>"", "dest_ssl"=>"0"}, "commit"=>"Migrar"}
+  Rendering home/send_imap.html.erb within layouts/application
+  Rendered home/_form.html.erb (27.0ms)
+  Rendered home/send_imap.html.erb within layouts/application (41.2ms)
+Completed 200 OK in 131ms (Views: 104.9ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/imap" for 127.0.0.1 at 2020-03-12 09:14:49 -0400
+Processing by HomeController#send_imap as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"nWs2UUcHP/TBNGIXy0OH1bC5ryNoz/dRE6MThtViwK/aYPQB95RhvBf2WQLwUiON/CAlfd4rDQZpPIyHsmZe4A==", "imap"=>{"source_name"=>"", "source_host"=>"", "source_port"=>"", "source_pass"=>"", "source_ssl"=>"0", "dest_name"=>"", "dest_host"=>"", "dest_port"=>"", "dest_pass"=>"", "dest_ssl"=>"0"}, "commit"=>"Migrar"}
+  Rendering home/send_imap.html.erb within layouts/application
+  Rendered home/_form.html.erb (13.3ms)
+  Rendered home/send_imap.html.erb within layouts/application (44.4ms)
+Completed 200 OK in 144ms (Views: 107.1ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/imap" for 127.0.0.1 at 2020-03-12 09:14:54 -0400
+Processing by HomeController#send_imap as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"p6pvBjJU+5UmP1WqYwx8PSgV26Udp6UGHRxaxk7d9xHgoa1Wgsel3fD9br9YHdhlZIxR+6tDX1Fng8XHKdlpXg==", "imap"=>{"source_name"=>"", "source_host"=>"", "source_port"=>"", "source_pass"=>"", "source_ssl"=>"0", "dest_name"=>"", "dest_host"=>"", "dest_port"=>"", "dest_pass"=>"", "dest_ssl"=>"0"}, "commit"=>"Migrar"}
+  Rendering home/send_imap.html.erb within layouts/application
+  Rendered home/_form.html.erb (18.0ms)
+  Rendered home/send_imap.html.erb within layouts/application (29.8ms)
+Completed 200 OK in 95ms (Views: 78.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/imap" for 127.0.0.1 at 2020-03-12 09:15:23 -0400
+Processing by HomeController#imap as HTML
+  Rendering home/imap.html.erb within layouts/application
+  Rendered layouts/includes/_alerts.html.erb (0.8ms)
+  Rendered home/_form.html.erb (11.4ms)
+  Rendered home/imap.html.erb within layouts/application (15.9ms)
+Completed 200 OK in 174ms (Views: 171.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/imap" for 127.0.0.1 at 2020-03-12 09:15:24 -0400
+Processing by HomeController#imap as HTML
+  Rendering home/imap.html.erb within layouts/application
+  Rendered layouts/includes/_alerts.html.erb (0.8ms)
+  Rendered home/_form.html.erb (13.5ms)
+  Rendered home/imap.html.erb within layouts/application (17.9ms)
+Completed 200 OK in 59ms (Views: 57.1ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/imap" for 127.0.0.1 at 2020-03-12 09:15:28 -0400
+Processing by HomeController#send_imap as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"ck6LmlAHrX0+rBIkThvuI/Goe7/OmH+2LNafJIV37Xg1RUnK4JTzNehuKTF1Ckp7vTHx4Xh8heFWSQAl4nNzNw==", "imap"=>{"source_name"=>"", "source_host"=>"", "source_port"=>"", "source_pass"=>"", "source_ssl"=>"0", "dest_name"=>"", "dest_host"=>"", "dest_port"=>"", "dest_pass"=>"", "dest_ssl"=>"0"}, "commit"=>"Migrar"}
+  Rendering home/send_imap.html.erb within layouts/application
+  Rendered home/_form.html.erb (29.8ms)
+  Rendered home/send_imap.html.erb within layouts/application (46.5ms)
+Completed 200 OK in 160ms (Views: 138.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/imap" for 127.0.0.1 at 2020-03-12 09:15:30 -0400
+Processing by HomeController#imap as HTML
+  Rendering home/imap.html.erb within layouts/application
+  Rendered layouts/includes/_alerts.html.erb (0.9ms)
+  Rendered home/_form.html.erb (14.1ms)
+  Rendered home/imap.html.erb within layouts/application (18.8ms)
+Completed 200 OK in 62ms (Views: 60.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/imap" for 127.0.0.1 at 2020-03-12 09:15:32 -0400
+Processing by HomeController#imap as HTML
+  Rendering home/imap.html.erb within layouts/application
+  Rendered layouts/includes/_alerts.html.erb (1.2ms)
+  Rendered home/_form.html.erb (15.4ms)
+  Rendered home/imap.html.erb within layouts/application (20.5ms)
+Completed 200 OK in 72ms (Views: 69.4ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/imap" for 127.0.0.1 at 2020-03-12 09:15:35 -0400
+Processing by HomeController#send_imap as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"5o+LPE987QGieH9RQ+WZ1ueKhNfXs1IpA65ZlvihpiOhhEls/++zSXS6RER49D2OqxMOiWFXqH55McaXn6U4bA==", "imap"=>{"source_name"=>"", "source_host"=>"", "source_port"=>"", "source_pass"=>"", "source_ssl"=>"0", "dest_name"=>"", "dest_host"=>"", "dest_port"=>"", "dest_pass"=>"", "dest_ssl"=>"0"}, "commit"=>"Migrar"}
+  Rendering home/send_imap.html.erb within layouts/application
+  Rendered home/_form.html.erb (15.9ms)
+  Rendered home/send_imap.html.erb within layouts/application (23.8ms)
+Completed 200 OK in 94ms (Views: 77.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/imap" for 127.0.0.1 at 2020-03-12 09:15:50 -0400
+Processing by HomeController#imap as HTML
+  Rendering home/imap.html.erb within layouts/application
+  Rendered layouts/includes/_alerts.html.erb (0.9ms)
+  Rendered home/_form.html.erb (13.4ms)
+  Rendered home/imap.html.erb within layouts/application (22.3ms)
+Completed 200 OK in 194ms (Views: 191.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/imap" for 127.0.0.1 at 2020-03-12 09:15:51 -0400
+Processing by HomeController#imap as HTML
+  Rendering home/imap.html.erb within layouts/application
+  Rendered layouts/includes/_alerts.html.erb (0.9ms)
+  Rendered home/_form.html.erb (13.0ms)
+  Rendered home/imap.html.erb within layouts/application (17.5ms)
+Completed 200 OK in 66ms (Views: 64.1ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/imap" for 127.0.0.1 at 2020-03-12 09:16:00 -0400
+Processing by HomeController#send_imap as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"Huju2Fd5G4STSv+zvE+xyc9PuKXAw3iGL+Vlz83WWaNZ4yyI5+pFzEWIxKaHXhWRg9Yy+3YngtFVevrOqtLH7A==", "imap"=>{"source_name"=>"", "source_host"=>"", "source_port"=>"", "source_pass"=>"", "source_ssl"=>"0", "dest_name"=>"", "dest_host"=>"", "dest_port"=>"", "dest_pass"=>"", "dest_ssl"=>"0"}, "commit"=>"Migrar"}
+  Rendering home/send_imap.html.erb within layouts/application
+  Rendered home/_form.html.erb (12.7ms)
+  Rendered home/send_imap.html.erb within layouts/application (38.3ms)
+Completed 200 OK in 126ms (Views: 103.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/imap" for 127.0.0.1 at 2020-03-12 09:16:48 -0400
+Processing by HomeController#imap as HTML
+  Rendering home/imap.html.erb within layouts/application
+  Rendered layouts/includes/_alerts.html.erb (0.8ms)
+  Rendered home/_form.html.erb (29.3ms)
+  Rendered home/imap.html.erb within layouts/application (33.6ms)
+Completed 200 OK in 191ms (Views: 189.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/imap" for 127.0.0.1 at 2020-03-12 09:16:53 -0400
+Processing by HomeController#imap as HTML
+  Rendering home/imap.html.erb within layouts/application
+  Rendered layouts/includes/_alerts.html.erb (0.9ms)
+  Rendered home/_form.html.erb (12.0ms)
+  Rendered home/imap.html.erb within layouts/application (16.4ms)
+Completed 200 OK in 58ms (Views: 56.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/imap" for 127.0.0.1 at 2020-03-12 09:16:56 -0400
+Processing by HomeController#imap as HTML
+  Rendering home/imap.html.erb within layouts/application
+  Rendered layouts/includes/_alerts.html.erb (0.8ms)
+  Rendered home/_form.html.erb (13.9ms)
+  Rendered home/imap.html.erb within layouts/application (23.2ms)
+Completed 200 OK in 72ms (Views: 70.2ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/imap" for 127.0.0.1 at 2020-03-12 09:18:48 -0400
+Processing by HomeController#send_imap as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"1rOoskG1Yc9bE7vKKHVLI7EAnjVjMu2ZMHXiVcopeM2RuGri8SY/h43RgN8TZO97/ZkUa9XWF85K6n1UrS3mgg==", "imap"=>{"source_name"=>"", "source_host"=>"", "source_port"=>"", "source_pass"=>"", "source_ssl"=>"0", "dest_name"=>"", "dest_host"=>"", "dest_port"=>"", "dest_pass"=>"", "dest_ssl"=>"0"}, "commit"=>"Migrar"}
+  Rendering home/send_imap.html.erb within layouts/application
+  Rendered home/_form.html.erb (19.7ms)
+  Rendered home/send_imap.html.erb within layouts/application (31.4ms)
+Completed 200 OK in 239ms (Views: 214.3ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/imap" for 127.0.0.1 at 2020-03-12 09:18:51 -0400
+Processing by HomeController#send_imap as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"gbd5N88T8xzZkHWXBn0u0/hFOGo1/t6+oIShEhGedj3GvLtnf4CtVA9SToI9bIqLtNyyNIMaJOnaGz4Tdprocg==", "imap"=>{"source_name"=>"", "source_host"=>"", "source_port"=>"", "source_pass"=>"", "source_ssl"=>"0", "dest_name"=>"", "dest_host"=>"", "dest_port"=>"", "dest_pass"=>"", "dest_ssl"=>"0"}, "commit"=>"Migrar"}
+  Rendering home/send_imap.html.erb within layouts/application
+  Rendered home/_form.html.erb (12.2ms)
+  Rendered home/send_imap.html.erb within layouts/application (21.1ms)
+Completed 200 OK in 86ms (Views: 70.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/imap" for 127.0.0.1 at 2020-03-12 09:18:55 -0400
+Processing by HomeController#imap as HTML
+  Rendering home/imap.html.erb within layouts/application
+  Rendered layouts/includes/_alerts.html.erb (0.8ms)
+  Rendered home/_form.html.erb (24.8ms)
+  Rendered home/imap.html.erb within layouts/application (29.2ms)
+Completed 200 OK in 73ms (Views: 71.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/imap" for 127.0.0.1 at 2020-03-12 09:18:56 -0400
+Processing by HomeController#imap as HTML
+  Rendering home/imap.html.erb within layouts/application
+  Rendered layouts/includes/_alerts.html.erb (0.8ms)
+  Rendered home/_form.html.erb (11.7ms)
+  Rendered home/imap.html.erb within layouts/application (16.0ms)
+Completed 200 OK in 60ms (Views: 57.7ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/imap" for 127.0.0.1 at 2020-03-12 09:18:58 -0400
+Processing by HomeController#send_imap as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"29hA2Ri5BulY/z9ZM7Ig93gsE1aRbUcvT6JjzsQxs4Oc04KJqCpYoY49BEwIo4SvNLWZCCeJvXg1PfzPozUtzA==", "imap"=>{"source_name"=>"", "source_host"=>"", "source_port"=>"", "source_pass"=>"", "source_ssl"=>"0", "dest_name"=>"", "dest_host"=>"", "dest_port"=>"", "dest_pass"=>"", "dest_ssl"=>"0"}, "commit"=>"Migrar"}
+  Rendering home/send_imap.html.erb within layouts/application
+  Rendered home/_form.html.erb (22.3ms)
+  Rendered home/send_imap.html.erb within layouts/application (32.6ms)
+Completed 200 OK in 119ms (Views: 90.1ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/imap" for 127.0.0.1 at 2020-03-12 09:19:01 -0400
+Processing by HomeController#send_imap as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"Tdx3YJfWB2fJUieEc5pn3jtfmkDZdAdpqqMxOTimoJkK17UwJ0VZLx+QHJFIi8OGd8YQHm+Q/T7QPK44X6I+1g==", "imap"=>{"source_name"=>"", "source_host"=>"", "source_port"=>"", "source_pass"=>"", "source_ssl"=>"0", "dest_name"=>"", "dest_host"=>"", "dest_port"=>"", "dest_pass"=>"", "dest_ssl"=>"0"}, "commit"=>"Migrar"}
+  Rendering home/send_imap.html.erb within layouts/application
+  Rendered home/_form.html.erb (13.8ms)
+  Rendered home/send_imap.html.erb within layouts/application (31.7ms)
+Completed 200 OK in 118ms (Views: 97.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/imap" for 127.0.0.1 at 2020-03-12 09:20:08 -0400
+Processing by HomeController#imap as HTML
+  Rendering home/imap.html.erb within layouts/application
+  Rendered layouts/includes/_alerts.html.erb (0.9ms)
+  Rendered home/_form.html.erb (13.7ms)
+  Rendered home/imap.html.erb within layouts/application (18.6ms)
+Completed 200 OK in 62ms (Views: 60.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/imap" for 127.0.0.1 at 2020-03-12 09:20:09 -0400
+Processing by HomeController#imap as HTML
+  Rendering home/imap.html.erb within layouts/application
+  Rendered layouts/includes/_alerts.html.erb (0.8ms)
+  Rendered home/_form.html.erb (13.1ms)
+  Rendered home/imap.html.erb within layouts/application (17.1ms)
+Completed 200 OK in 55ms (Views: 52.7ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/imap" for 127.0.0.1 at 2020-03-12 09:20:46 -0400
+Processing by HomeController#send_imap as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"rF+zbkFkzX6eWcwGi+7Obm7rvd9x960lrZ9rVOR5qtXrVHE+8feTNkib9xOw/2o2InI3gccTV3LXAPRVg300mg==", "imap"=>{"source_name"=>"dossantospereira6@gmail.com", "source_host"=>"imap.gmail.com", "source_port"=>"993", "source_pass"=>"novaandradina", "source_ssl"=>"1", "dest_name"=>"leandrobcnams@gmail.com", "dest_host"=>"imap.gmail.com", "dest_port"=>"993", "dest_pass"=>"jhjhjhhkhk", "dest_ssl"=>"1"}, "commit"=>"Migrar"}
+  Rendering home/send_imap.html.erb within layouts/application
+  Rendered home/_form.html.erb (11.7ms)
+  Rendered home/send_imap.html.erb within layouts/application (17.7ms)
+Completed 200 OK in 3600ms (Views: 66.9ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/imap" for 127.0.0.1 at 2020-03-12 09:21:04 -0400
+Processing by HomeController#send_imap as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"I425Uq+R8EPoQP7Wa/96fAVTj6i5199Qypo8r1QV5rJkhnsCHwKuCz6CxcNQ7t4kScoF9g8zJQewBaOuMxF4/Q==", "imap"=>{"source_name"=>"dossantospereira6@gmail.com", "source_host"=>"imap.gmail.com", "source_port"=>"993", "source_pass"=>"novaandradina", "source_ssl"=>"1", "dest_name"=>"leandrobcnams@gmail.com", "dest_host"=>"imap.gmail.com", "dest_port"=>"993", "dest_pass"=>"novaandradina", "dest_ssl"=>"1"}, "commit"=>"Migrar"}
+Started GET "/" for 127.0.0.1 at 2020-03-12 13:22:42 -0400
+Processing by HomeController#imap as HTML
+  Rendering home/imap.html.erb within layouts/application
+  Rendered layouts/includes/_alerts.html.erb (1.0ms)
+  Rendered home/_form.html.erb (149.6ms)
+  Rendered home/imap.html.erb within layouts/application (269.5ms)
+Completed 200 OK in 2663ms (Views: 2491.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2020-03-12 13:22:51 -0400
+Processing by HomeController#imap as HTML
+  Rendering home/imap.html.erb within layouts/application
+  Rendered layouts/includes/_alerts.html.erb (1.3ms)
+  Rendered home/_form.html.erb (15.8ms)
+  Rendered home/imap.html.erb within layouts/application (28.0ms)
+Completed 200 OK in 77ms (Views: 74.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2020-03-12 13:22:57 -0400
+Processing by HomeController#imap as HTML
+  Rendering home/imap.html.erb within layouts/application
+  Rendered layouts/includes/_alerts.html.erb (1.0ms)
+  Rendered home/_form.html.erb (15.4ms)
+  Rendered home/imap.html.erb within layouts/application (24.4ms)
+Completed 200 OK in 78ms (Views: 73.5ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/imap" for 127.0.0.1 at 2020-03-12 13:24:17 -0400
+Processing by HomeController#send_imap as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"s/IfmgZvRguwCx3FnUJtquGWav6HcKN2GaiHddn9JfX0+d3KtvwYQ2bJJtCmU8nyrQ/goDGUWSFjNxh0vvm7ug==", "imap"=>{"source_name"=>"dossantospereira6@gmail.com", "source_host"=>"imap.gmail.com", "source_port"=>"993", "source_pass"=>"novaandradina", "source_ssl"=>"1", "dest_name"=>"leandrobcnams@gmail.com", "dest_host"=>"imap.gmail.com", "dest_port"=>"993", "dest_pass"=>"novaandradina", "dest_ssl"=>"1"}, "commit"=>"Migrar"}
+Started GET "/" for 127.0.0.1 at 2020-03-12 13:49:38 -0400
+Processing by HomeController#imap as HTML
+  Rendering home/imap.html.erb within layouts/application
+  Rendered layouts/includes/_alerts.html.erb (1.0ms)
+  Rendered home/_form.html.erb (138.0ms)
+  Rendered home/imap.html.erb within layouts/application (192.3ms)
+Completed 200 OK in 1416ms (Views: 1351.8ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/imap" for 127.0.0.1 at 2020-03-12 13:50:48 -0400
+Processing by HomeController#send_imap as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"diy6EExbdtTRN1x+YWZEOIyy1YvaSlZH3ePesrBoTVGapY+GkMDwRBbXWWl1TCTUhDlszGJ2QwonvAdpeE+7/g==", "imap"=>{"source_name"=>"leandrobcnams@gmail.com", "source_host"=>"imap.gmail.com", "source_port"=>"993", "source_pass"=>"NOVAANDRADINA", "source_ssl"=>"1", "dest_name"=>"leandroagenciaw3@gmail.com", "dest_host"=>"imap.gmail.com", "dest_port"=>"993", "dest_pass"=>"novaandradina", "dest_ssl"=>"1"}, "commit"=>"Migrar"}
+  Rendering home/send_imap.html.erb within layouts/application
+  Rendered home/_form.html.erb (16.3ms)
+  Rendered home/send_imap.html.erb within layouts/application (22.5ms)
+Completed 200 OK in 3189ms (Views: 65.3ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/imap" for 127.0.0.1 at 2020-03-12 13:51:22 -0400
+Processing by HomeController#send_imap as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"mPUu5r3OMEFgkvGhIWIXc6jx4alBjtvA4l3+tkMkwfJ0fBtwYVW20ady9LY1SHefoHpY7vmyzo0YAidtiwM3XQ==", "imap"=>{"source_name"=>"leandrobcnams@gmail.com", "source_host"=>"imap.gmail.com", "source_port"=>"993", "source_pass"=>"novaandradina", "source_ssl"=>"1", "dest_name"=>"leandroagenciaw3@gmail.com", "dest_host"=>"imap.gmail.com", "dest_port"=>"993", "dest_pass"=>"novaandradina", "dest_ssl"=>"1"}, "commit"=>"Migrar"}
+  Rendering home/send_imap.html.erb within layouts/application
+  Rendered home/_form.html.erb (15.9ms)
+  Rendered home/send_imap.html.erb within layouts/application (22.4ms)
+Completed 200 OK in 3231ms (Views: 64.7ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/imap" for 127.0.0.1 at 2020-03-12 13:59:42 -0400
+Processing by HomeController#send_imap as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"t13SQYRVKws5+OhbN+doeLn26GwVrs0x9lNakPpnO7Fb1OfXWM6tm/4Y7UwjzQiUsX1RK62S2HwMDINLMkDNHg==", "imap"=>{"source_name"=>"leandrobcnams@gmail.com", "source_host"=>"imap.gmail.com", "source_port"=>"993", "source_pass"=>"novaandradina", "source_ssl"=>"1", "dest_name"=>"leandroagenciaw3@gmail.com", "dest_host"=>"imap.gmail.com", "dest_port"=>"993", "dest_pass"=>"novaandradina", "dest_ssl"=>"1"}, "commit"=>"Migrar"}
+  Rendering home/send_imap.html.erb within layouts/application
+  Rendered home/_form.html.erb (85.8ms)
+  Rendered home/send_imap.html.erb within layouts/application (135.1ms)
+Completed 200 OK in 813764ms (Views: 1102.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2020-03-12 14:19:23 -0400
+Processing by HomeController#imap as HTML
+  Rendering home/imap.html.erb within layouts/application
+  Rendered layouts/includes/_alerts.html.erb (0.9ms)
+  Rendered home/_form.html.erb (46.4ms)
+  Rendered home/imap.html.erb within layouts/application (134.3ms)
+Completed 200 OK in 1170ms (Views: 990.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2020-03-12 14:19:28 -0400
+Processing by HomeController#imap as HTML
+  Rendering home/imap.html.erb within layouts/application
+  Rendered layouts/includes/_alerts.html.erb (1.4ms)
+  Rendered home/_form.html.erb (13.3ms)
+  Rendered home/imap.html.erb within layouts/application (19.3ms)
+Completed 200 OK in 62ms (Views: 60.5ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/imap" for 127.0.0.1 at 2020-03-12 14:24:00 -0400
+Processing by HomeController#send_imap as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"wn8V8q50xz17ClZEicpTTasBtsrCUtMzWB4ACqnt8VAu9iBkcu9BrbzqU1Od4DOho4oPjXpuxn6iQdnRYcoH/w==", "imap"=>{"source_name"=>"leandrobcnams@gmail.com", "source_host"=>"imap.gmail.com", "source_port"=>"993", "source_pass"=>"novaandradina", "source_ssl"=>"1", "dest_name"=>"leandroagenciaw3@gmail.com", "dest_host"=>"imap.gmail.com", "dest_port"=>"993", "dest_pass"=>"novaandradina", "dest_ssl"=>"1"}, "commit"=>"Migrar"}
+  Rendering home/send_imap.html.erb within layouts/application
+  Rendered home/_form.html.erb (19.2ms)
+  Rendered home/send_imap.html.erb within layouts/application (41.5ms)
+Completed 200 OK in 128472ms (Views: 728.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2020-03-12 14:27:59 -0400
+Processing by HomeController#imap as HTML
+  Rendering home/imap.html.erb within layouts/application
+  Rendered layouts/includes/_alerts.html.erb (0.9ms)
+  Rendered home/_form.html.erb (18.3ms)
+  Rendered home/imap.html.erb within layouts/application (68.9ms)
+Completed 200 OK in 324ms (Views: 295.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2020-03-12 14:28:03 -0400
+Processing by HomeController#imap as HTML
+  Rendering home/imap.html.erb within layouts/application
+  Rendered layouts/includes/_alerts.html.erb (0.9ms)
+  Rendered home/_form.html.erb (15.3ms)
+  Rendered home/imap.html.erb within layouts/application (20.6ms)
+Completed 200 OK in 69ms (Views: 66.8ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/imap" for 127.0.0.1 at 2020-03-12 14:29:50 -0400
+Processing by HomeController#send_imap as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"G206Mh7vFN+ZVjrqx4Cm/Mr6jbl3cNvf0+zw1Z2GhbL35A+kwnSST162P/3TqsYQwnE0/s9MzpIpsykOVaFzHQ==", "imap"=>{"source_name"=>"leandrobcnams@gmail.com", "source_host"=>"imap.gmail.com", "source_port"=>"993", "source_pass"=>"novaandradina", "source_ssl"=>"1", "dest_name"=>"leandroagenciaw3@gmail.com", "dest_host"=>"imap.gmail.com", "dest_port"=>"993", "dest_pass"=>"novaandradina", "dest_ssl"=>"1"}, "commit"=>"Migrar"}
+Redirected to http://localhost:3000/imap
+Completed 302 Found in 127315ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/imap" for 127.0.0.1 at 2020-03-12 14:31:58 -0400
+Processing by HomeController#imap as HTML
+  Rendering home/imap.html.erb within layouts/application
+  Rendered layouts/includes/_alerts.html.erb (1.1ms)
+  Rendered home/_form.html.erb (25.0ms)
+  Rendered home/imap.html.erb within layouts/application (32.1ms)
+Completed 200 OK in 348ms (Views: 319.5ms | ActiveRecord: 0.0ms)
+
+
