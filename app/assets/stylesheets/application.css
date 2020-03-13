@@ -37,3 +37,36 @@
     margin: -32px 0 0 -32px;
   }
 
+  .input-group-text {
+
+    background-color: #3d0f96 !important;
+  
+}
+
+i{
+  color: white;
+}
+
+.btn-primary.btn-lg.btn-block {
+  background-color: #B100C9 ;
+  border: #3d0f96 !important ;
+  /* width: 40%; */
+  margin: 0 auto;
+  width: 50%; /* Valor da Largura */
+}
+
+input[type=text]:focus {    
+  box-shadow: 0 1px 0 0 #ff9800; 
+  border: 2px solid #ff9800;
+}
+
+input[type=password]:focus {    
+  box-shadow: 0 1px 0 0 #ff9800; 
+  border: 2px solid #ff9800;
+}
+
+.card-body {
+  /* text-align: center; */
+  border: solid 1px #B100C9 ;
+  
+}

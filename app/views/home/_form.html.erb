@@ -4,99 +4,138 @@
         <fieldset>
           <div class="row"></div>
           <%# Servidor de Origem %>
+          <br>
           <div>
-            <h4>Servidor de origem</h4>
+            <h5>Servidor de origem</h5>
           </div>
+        
           <div class="row">
-            <div class="col">
-              <i class="fas fa-envelope"></i>
+           
+            <div class="col-md-6">
               <%= f.label :source_name, t('.form.Email'), class: "form_label" %>
-              <br />
-              <%= f.text_field :source_name, class: "form-control" %>
+              <div class="input-group mb-2">
+                <div class="input-group-prepend">
+                  <div class="input-group-text"> <i class="fas fa-envelope"></i></div>
+                </div>
+                <%= f.text_field :source_name, class: "form-control" %>
+              </div>
             </div>
-            <div class="col">
-              <i class="fas fa-database"></i>
+
+            <div class="col-md-6">
               <%= f.label :source_host, t('.form.Servidor'), class: "form_label"
               %>
-              <br />
-              <%= f.text_field :source_host, class: "form-control" %>
-              <br />
+              <div class="input-group mb-2">
+                <div class="input-group-prepend">
+                  <div class="input-group-text"> <i class="fas fa-database"></i></div>
+                </div>
+                <%= f.text_field :source_host, class: "form-control" %>
+              </div>
             </div>
           </div>
 
+
+
           <div class="row">
-            <div class="col">
-              <i class="fas fa-ethernet"></i>
+            <div class="col-md-6">
               <%= f.label :source_port, t('.form.Porta'), class: "form_label" %>
-              <br />
-              <%= f.text_field :source_port, class: "form-control" %>
+              <div class="input-group mb-2">
+                <div class="input-group-prepend">
+                  <div class="input-group-text"><i class="fas fa-ethernet"></i></div>
+                </div>
+                <%= f.text_field :source_port, class: "form-control" %>
+              </div>
             </div>
-            <div class="col">
-              <i class="fas fa-key"></i>
+
+
+            <div class="col-md-6">
               <%= f.label :source_pass, t('.form.Senha'), class: "form_label" %>
-              <br />
-              <%= f.password_field :source_pass, class: "form-control" %>
-              <br />
-              <%#= flash_message(params[:hash_error_message]).html_safe if
-              params[:hash_error_message]%> <%#= params[:hash_error_message] if
-              params[:hash_error_message].present?%>
+              <div class="input-group mb-2">
+                <div class="input-group-prepend">
+                  <div class="input-group-text"> <i class="fas fa-key"></i></div>
+                </div>
+                <%= f.password_field :source_pass, class: "form-control" %>
+              </div>
             </div>
+
           </div>
           <div class="form-group">
-            <i class="fas fa-shield-alt"> SSL</i>
+            <br>
+            SSL
+            <i class="fas fa-shield-alt" style="color:#3d0f96 !important"> </i>
             <br />
             <%= f.check_box :source_ssl %>
             <br />
-            <hr />
+          
           </div>
           <br />
           <div>
-            <h4>Servidor de destino</h4>
+
+
+            <h5>Servidor de destino</h5>
           </div>
           <%# Servidor de destino %>
           <div class="row">
-            <div class="col">
-              <i class="fas fa-envelope"></i>
+
+            <div class="col-md-6">
               <%= f.label :dest_name, t('.form.Email'), class: "form_label" %>
-              <br />
-              <%= f.text_field :dest_name, class: "form-control" %>
+              <div class="input-group mb-2">
+                <div class="input-group-prepend">
+                  <div class="input-group-text"><i class="fas fa-envelope"></i></div>
+                </div>
+                <%= f.text_field :dest_name, class: "form-control" %>
+              </div>
             </div>
-            <div class="col">
-              <i class="fas fa-database"></i>
+
+            <div class="col-md-6">
               <%= f.label :dest_host, t('.form.Servidor'), class: "form_label"
               %>
-              <br />
-              <%= f.text_field :dest_host, class: "form-control" %>
-              <br />
+              <div class="input-group mb-2">
+                <div class="input-group-prepend">
+                  <div class="input-group-text"> <i class="fas fa-database"></i></div>
+                </div>
+                <%= f.text_field :dest_host, class: "form-control" %>
+              </div>
             </div>
           </div>
 
           <div class="row">
-            <div class="col">
-              <i class="fas fa-ethernet"></i>
+           
+            <div class="col-md-6">
               <%= f.label :dest_port, t('.form.Porta'), class: "form_label" %>
-              <br />
-              <%= f.text_field :dest_port, class: "form-control" %>
+              <div class="input-group mb-2">
+                <div class="input-group-prepend">
+                  <div class="input-group-text"><i class="fas fa-ethernet"></i></div>
+                </div>
+                <%= f.text_field :dest_port, class: "form-control" %>
+              </div>
             </div>
 
-            <div class="col">
-              <i class="fas fa-key"></i>
+            <div class="col-md-6">
               <%= f.label :dest_pass, t('.form.Senha'), class: "form_label" %>
-              <br />
-              <%= f.password_field :dest_pass, class: "form-control" %>
-              <br />
-              <%#= flash_message(@hash_error_messages).html_safe %>
+              <div class="input-group mb-2">
+                <div class="input-group-prepend">
+                  <div class="input-group-text"><i class="fas fa-key"></i></div>
+                </div>
+                <%= f.password_field :dest_pass, class: "form-control" %>
+              </div>
             </div>
+
           </div>
+
+
           <div class="form-group">
-            <i class="fas fa-shield-alt"> SSL</i>
+            <br>
+            SSL
+            <i class="fas fa-shield-alt" style="color: #3d0f96 !important;"></i>
             <br />
             <%= f.check_box :dest_ssl %>
             <br />
           </div>
           <br />
           <div class="form-group" id="click-me">
-            <%= f.submit ('Migrar'), class: "btn btn-primary btn-lg btn-block" %>
+            <%= button_tag(type: "submit", class: "btn btn-primary btn-lg btn-block") do %>
+            Iniciar  <i class="fa fa-send-o"></i>
+            <%end%>
           </div>
         </fieldset>
         <% end %>

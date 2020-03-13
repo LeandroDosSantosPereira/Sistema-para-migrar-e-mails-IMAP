@@ -26,7 +26,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.4"
-     inkscape:cx="-191.02578"
+     inkscape:cx="-360.31149"
      inkscape:cy="762.19353"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
@@ -44,7 +44,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -54,7 +54,7 @@
      id="layer1">
     <g
        id="g113"
-       transform="matrix(0.52178436,0,0,0.52178436,-389.35756,-174.17392)"
+       transform="matrix(0.44386612,0,0,0.44386612,-346.0302,-136.36585)"
        style="fill:#ffffff"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96">
@@ -92,16 +92,16 @@
     </g>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.87819147px;line-height:1.25;font-family:tes;-inkscape-font-specification:tes;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.12195479"
-       x="-85.887856"
-       y="88.196686"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.14972925px;line-height:1.25;font-family:tes;-inkscape-font-specification:tes;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.10374324"
+       x="-87.877747"
+       y="86.82486"
        id="text898"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96"><tspan
          sodipodi:role="line"
          id="tspan896"
-         x="-85.887856"
-         y="88.196686"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#ffffff;stroke-width:0.12195479">Migrar e-mails</tspan></text>
+         x="-87.877747"
+         y="86.82486"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#ffffff;stroke-width:0.10374324">Migrar e-mails</tspan></text>
   </g>
 </svg>
