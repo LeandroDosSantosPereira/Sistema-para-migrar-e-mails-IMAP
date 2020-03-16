@@ -56,17 +56,22 @@ i{
 }
 
 input[type=text]:focus {    
-  box-shadow: 0 1px 0 0 #ff9800; 
-  border: 2px solid #ff9800;
+  box-shadow: 0 1px 0 0 #B100C9; 
+  border: 1px solid #B100C9;
 }
 
 input[type=password]:focus {    
-  box-shadow: 0 1px 0 0 #ff9800; 
-  border: 2px solid #ff9800;
+  box-shadow: 0 1px 0 0 #B100C9; 
+  border: 1px solid #B100C9;
 }
 
 .card-body {
   /* text-align: center; */
   border: solid 1px #B100C9 ;
   
+}
+
+.input-group-text {
+  border: solid 1px !important;
+  color: #3d0f96 !important;
 }
