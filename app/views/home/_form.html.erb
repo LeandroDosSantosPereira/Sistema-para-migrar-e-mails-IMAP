@@ -53,7 +53,7 @@
                 <div class="input-group-prepend">
                   <div class="input-group-text"> <i class="fas fa-key"></i></div>
                 </div>
-                <%= f.password_field :source_pass, class: "form-control" %>
+                <%= f.password_field :source_pass, value: @senha1,  class: "form-control" %>
               </div>
             </div>
 
@@ -116,7 +116,7 @@
                 <div class="input-group-prepend">
                   <div class="input-group-text"><i class="fas fa-key"></i></div>
                 </div>
-                <%= f.password_field :dest_pass, class: "form-control" %>
+                <%= f.password_field :dest_pass,value: @senha2, class: "form-control" %>
               </div>
             </div>
 

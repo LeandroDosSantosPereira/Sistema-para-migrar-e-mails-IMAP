@@ -13,6 +13,8 @@ class HomeController < ApplicationController
 
     @hash_error_message = {}
     
+    @senha1 = nil
+    @senha2 = nil
     
 
       # Começa script ===========================================================
@@ -66,6 +68,7 @@ class HomeController < ApplicationController
  
   begin
     source.login(@imap.source_name, @imap.source_pass)
+    @senha1 = @imap.source_pass   
     rescue      
       @imap.errors.add("E-mail_de_origem_:" ,"Senha do e-mail de origem incorreto")
 
@@ -85,6 +88,7 @@ class HomeController < ApplicationController
 
   begin
     dest.login(@imap.dest_name, @imap.dest_pass)
+    @senha2 = @imap.dest_pass
     rescue   
       @imap.errors.add("E-mail_de_destino_:" ,"Senha do e-mail de destino incorreto")
     end
